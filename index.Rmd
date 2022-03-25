@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Macroeconomía Internacional"
 output: html_document
 ---
 
