@@ -19,7 +19,7 @@ Acá puede encontrar los materiales del curso. Las clases, presentaciones, tarea
 
 # Programa (Syllabus)
 
-La versión más reciente del programa del curso acá. 
+La versión más reciente del programa del curso [acá.](materials/MacroInternacional_I22.pdf)
 
 # Tesis 1
 ### Desbalances globales y cuenta corriente
