@@ -30,9 +30,10 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+<a href = "https://sites.google.com/site/matthiaskehrig/hermes">
+![](images/hermes.jpg)
+
+
 </a>
 </div>
