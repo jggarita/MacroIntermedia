@@ -16,10 +16,13 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 Acá puede encontrar los materiales del curso. Las clases, presentaciones, tareas y otros fueron basadas en el libro [*International Macroeconomics: A Modern Approach"*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) de Stephanie Schmitt-Grohé, Martín Uribe, and Michael Woodford.
 
+<br>
 
 # Programa (Syllabus)
 
 La versión más reciente del programa del curso [acá.](materials/MacroInternacional_I22.pdf)
+
+<br>
 
 # Tesis 1
 ### Desbalances globales y cuenta corriente
