@@ -1,11 +1,11 @@
 name: "MyLabJournal"
 navbar:
-  title: "MyLabJournal"
+  title: "EC-3301"
   left:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
-    - text: "Journal"
+    - text: "Materiales"
       href: Journal.html
-    - text: "Links"
+    - text: "Referencias"
       href: Links.html
 output_dir: "docs"
