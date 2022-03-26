@@ -1,0 +1,48 @@
+---
+title: "Desbalances globales y sostenibilidad de la cuenta corriente"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Motivación 
+
+* El comercio internacional y los mercados de capitales son fundamentales para el desarrollo de las economías modernas
+
+* Durante las últimas décadas, los desbalances se han incrementado fuertemente:
+
+  * Algunas economías son bastante deficitarias (EE.UU.)
+
+  * Otras son marcadamente superavitarias (China)
+
+* La magnitud de los desequilibrios externos crea la duda sobre su sostenibilidad
+
+* En esta tesis vamos a introducir conceptos para identificar y monitorear los desequilibrios externos
+
+* Y vamos a desarrollar modelos sencillos para establecer las condiciones de sostenibilidad
+
+## La Balanza de Pagos
+
+### La cuenta corriente
+
+Tres componentes principales:
+
+1. La cuenta corriente
+
+2. La cuenta financiera
+
+3. La cuenta de capital (cuantitativamente irrelevante)
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

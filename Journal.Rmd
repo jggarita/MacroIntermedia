@@ -24,12 +24,11 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 # Tesis 1
 ### Desbalances globales y cuenta corriente
 
-* Slides
+* [Notas](materials/Tesis_1.pdf)
 * [Tarea 1](materials/Tarea_1.pdf)
 
 ### Sostenibilidad de la cuenta corriente
 
-* Slides
 * Tarea 2
 
 
