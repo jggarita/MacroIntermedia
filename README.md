@@ -3,8 +3,8 @@ Les doy la bienvenida a este sitio que contiene los principales avisos, material
 
 ## Detalles de contacto
 * Prof. Jonathan Garita, Ph.D.
-* Correo del curso: i2020ucr@gmail.com
+* Correo del curso: i2022ucr@gmail.com
 * Mediación virtual: TBD
 * Asistente: TBD
-* 
+
 
