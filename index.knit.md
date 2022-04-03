@@ -1,0 +1,66 @@
+---
+title: "Macroeconomía Internacional"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+
+# **Macroeconomía Internacional**
+<br>
+
+Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referencias importantes para el desarrollo del curso. También voy a incluir material en Mediación Virtual según sea necesario. 
+
+<br>
+
+## Detalles de contacto
+* Prof. Jonathan Garita, Ph.D.
+* Correo del curso: i2022ucr@gmail.com
+* Mediación virtual: TBD
+* Asistente: TBD
+* *Sesión de práctica*: Lunes 17-19:50 (Mismo acceso que la clase)
+
+## Evaluación:
+
+1. Tareas y asignaciones: 30%
+
+2. Primer parcial: 35%
+
+3. Segundo parcial 35%
+
+## Referencias:
+
+* Schmitt-Grohé, Uribe, y Woodford. [*International Macroeconomics: A Modern Approach"*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) **(May 25, 2021)**
+
+## Nuestra Playlist:
+
+[Spotify](https://open.spotify.com/playlist/5PPToF7Yix4A4E9lDOLm1W?si=fbbd3c414b3746d9)
+
+## Avisos importantes
+
+* La tarea 1 ha sido posteada. **Fecha de entrega**: 7 de abril.
+
+
+
+</div>
+<div class="col-sm-6">
+
+
+<a href = "https://sites.google.com/site/matthiaskehrig/hermes">
+![](images/hermes.jpg)
+
+
+</a>
+</div>
