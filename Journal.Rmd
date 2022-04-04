@@ -31,7 +31,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Desbalances globales y cuenta corriente
 
 * Capítulo 1 SUW
-* [Notas](materials/Tesis_1.pdf)
+* [Notas](materials/Tesis_1.pdf) (incluye sostenibilidad de la cuenta corriente)
 * [Tarea 1](materials/Tarea_1.pdf)
 
 ### Sostenibilidad de la cuenta corriente
@@ -46,7 +46,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Una teoría intertemporal de la cuenta corriente
 
 * Capítulos 3 y 4 SUW
-* Notas
+* Notas modelo de [dotación](materials/Determinacion_dotacion.pdf)
 * [Tarea 2](materials/Tarea_2.pdf)
 
 ### Determinación de la cuenta corriente en una economía de producción
