@@ -32,7 +32,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 1 SUW
 * [Notas](materials/Tesis_1.pdf) (incluye sostenibilidad de la cuenta corriente)
-* [Tarea 1](materials/Tarea_1.pdf)
+* [Tarea 1](materials/Tarea_1.pdf) (7 de abril)
 
 ### Sostenibilidad de la cuenta corriente
 
@@ -49,7 +49,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Capítulos 9 y 10 del [GLS](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) (Recordatorio del modelo ahorro-consumo)
 * Capítulos 3 y 4 SUW
 * Notas modelo de [dotación](materials/Determinacion_dotacion.pdf)
-* [Tarea 2](materials/Tarea_2.pdf)
+* [Tarea 2](materials/Tarea_2.pdf) (28 de abril)
 
 ### Determinación de la cuenta corriente en una economía de producción
 
