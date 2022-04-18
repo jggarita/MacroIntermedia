@@ -10,9 +10,7 @@ output:
     #code_folding: hide
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
+
 
 Acá puede encontrar los materiales del curso. Las clases, presentaciones, tareas y otros fueron basadas en el libro [*International Macroeconomics: A Modern Approach"*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) de Stephanie Schmitt-Grohé, Martín Uribe, and Michael Woodford (SUW).
 
