@@ -51,10 +51,12 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Notas modelo de [dotación](materials/Determinacion_dotacion.pdf)
 * [Tarea 2](materials/Tarea_2.pdf) (28 de abril)
 
+
 ### Determinación de la cuenta corriente en una economía de producción
 
 * Capítulo 5 SUW
-* Tarea 3
+* Notas modelo de [producción](materials/Determinacion_produccion.pdf)
+* Tarea 3 (5 de mayo)
 
 ### Incertidumbre y cuenta corriente
 
