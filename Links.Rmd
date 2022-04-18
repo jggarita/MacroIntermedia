@@ -27,4 +27,10 @@ output: html_document
 
 * Atkeson, A., Heathcote, J., & Perri, F. (2022). The end of privilege: A reexamination of the net foreign asset position of the United States (No. w29771). National Bureau of Economic Research.[Link](https://www.nber.org/papers/w29771) [Resumen](https://www.nber.org/digest-202204/explaining-decline-us-net-foreign-asset-position)
 
+#### Tesis 2: Determinación de la cuenta corriente
+
+* Arezki, R., Ramey, V. A., & Sheng, L. (2017). News shocks in open economies: Evidence from giant oil discoveries. The Quarterly Journal of Economics, 132(1), 103-155.[Link](https://econweb.ucsd.edu/~vramey/research/ARS-QJE-published.pdf) 
+
+
+
 
