@@ -63,25 +63,21 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Sección 9.44 del [GLS](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) (Recordatorio del motivo precautorio del ahorro)
 * Capítulo 6 SUW
 * Notas de [incertidumbre](materials/Incertidumbre.pdf)
-* Tarea 4 (19 de mayo)
+
 
 ### Economías grandes y abiertas
 
 * Capítulo 7 SUW
-* Tarea 5
+* [Notas](materials/Determinacion_grande.pdf)
+* Tarea 4 (19 de mayo)
 
-<br>
-
-# Tesis 3 
-
-<br>
 
 ### Déficits gemelos
 
 * Capítulo 8 SUW
-* Tarea 7
+* Tarea 5
 
-# Tesis 4 
+# Tesis 3 
 
 <br>
 
@@ -89,45 +85,45 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 
 * Capítulo 9 SUW
-* Tarea 8
+* Tarea 6
 
 ### Determinantes del tipo de cambio real
 
 * Capítulo 10 SUW
-* Tarea 9
+* Tarea 7
 
-# Tesis 5  
+# Tesis 4
 
 <br>
 
 ### Integración del mercado de capitales
 
 * Capítulo 11 SUW
-* Tarea 10
+* Tarea 8
 
-# Tesis 6 
+# Tesis 5
 
 <br>
 
 ### Rigideces nominales, política cambiaria y desempleo 
 
 * Capítulo 13 SUW
-* Tarea 11
+* Tarea 9
 
-# Tesis 7 
+# Tesis 6
 
 <br>
 
 ### Manejo de paridades cambiarias
 
 * Capítulo 14 SUW
-* Tarea 12
+* Tarea 10
 
-# Tesis 8 
+# Tesis 7
 
 <br>
 
 ### Finanzas internacionales y crisis de la balanza de pagos
 
 * Capítulo 15 SUW
-* Tarea 13
+* Tarea 11
