@@ -69,14 +69,14 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 7 SUW
 * [Notas](materials/Determinacion_grande.pdf)
-* Tarea 4 (19 de mayo)
+* [Tarea 4](materials/Tarea_4.pdf) (19 de mayo)
 
 
 ### Déficits gemelos
 
 * Capítulo 8 SUW
 * Notas [déficits gemelos](materials/DeficitsGemelos.pdf)
-* Tarea 5
+* Tarea 5 (26 de mayo)
 
 # Tesis 3 
 
