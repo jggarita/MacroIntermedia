@@ -75,6 +75,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Déficits gemelos
 
 * Capítulo 8 SUW
+* Notas [déficits gemelos](materials/DeficitsGemelos.pdf)
 * Tarea 5
 
 # Tesis 3 
