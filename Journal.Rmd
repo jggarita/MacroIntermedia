@@ -81,7 +81,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 #### Examen Parcial 1 
 
 * [Examen](materials/MT1A.pdf) 
-* Soluciones (pronto) 
+* [Soluciones](materials/MT1-Solutions.pdf) (Preliminar V1)
 
 # Tesis 3 
 
