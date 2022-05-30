@@ -78,10 +78,10 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Notas [déficits gemelos](materials/DeficitsGemelos.pdf)
 * [Tarea 5](materials/Tarea_5.pdf) (26 de mayo)
 
-#### Examen Parcial 1 (26 de mayo 5:00 pm)
+#### Examen Parcial 1 
 
-* Examen
-* [Soluciones](materials/dog.jpg) 
+* [Examen](materials/MT1A.pdf) 
+* Soluciones (pronto) 
 
 # Tesis 3 
 
