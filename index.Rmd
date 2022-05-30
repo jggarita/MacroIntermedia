@@ -49,8 +49,8 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ## Avisos importantes
 
-* La tarea 5 ha sido posteada. **Fecha de entrega**: 26 de mayo.
-* El primer parcial es el 26 de mayo a las 5:00 pm
+* Las soluciones del primer parcial (preliminares V1) han sido posteadas.
+
 
 </div>
 <div class="col-sm-6">
