@@ -98,7 +98,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 10 SUW
 * Notas [Determinación TCR](materials/Determinacion_TCR.pdf)
-* [Tarea 6](materials/Tarea_5.pdf) (23 de junio)
+* [Tarea 6](materials/Tarea_6.pdf) (23 de junio)
 
 # Tesis 4
 
