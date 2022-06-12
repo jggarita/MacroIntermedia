@@ -107,7 +107,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Integración del mercado de capitales
 
 * Capítulo 11 SUW
-* Tarea 8
+* Notas [Integración de capitales](materials/Integracion.pdf)
 
 # Tesis 5
 
