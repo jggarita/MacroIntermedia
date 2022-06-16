@@ -116,7 +116,8 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Rigideces nominales, política cambiaria y desempleo 
 
 * Capítulo 13 SUW
-* Tarea 9
+* [Notas](materials/tcn_rigidw.pdf)
+* Tarea 7
 
 # Tesis 6
 
@@ -125,7 +126,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Manejo de paridades cambiarias
 
 * Capítulo 14 SUW
-* Tarea 10
+* Tarea 8
 
 # Tesis 7
 
@@ -134,4 +135,4 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Finanzas internacionales y crisis de la balanza de pagos
 
 * Capítulo 15 SUW
-* Tarea 11
+* Tarea 9
