@@ -117,7 +117,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 13 SUW
 * [Notas](materials/tcn_rigidw.pdf)
-* Tarea 7
+* 
 
 # Tesis 6
 
@@ -126,7 +126,9 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Manejo de paridades cambiarias
 
 * Capítulo 14 SUW
-* Tarea 8
+* [Notas](materials/currency_pegs.pdf)
+* [Tarea 7](materials/Tarea_7.pdf) (7 de julio)
+
 
 # Tesis 7
 
