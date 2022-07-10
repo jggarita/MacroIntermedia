@@ -138,4 +138,4 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 15 SUW
 * [Notas](materials/bop-crises.pdf)
-* Tarea 8
+* [Tarea 8](materials/Tarea_8.pdf) (No se evaluará)
