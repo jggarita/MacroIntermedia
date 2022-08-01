@@ -143,4 +143,4 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Examen Parcial 2
 
 * [Examen](materials/MT2A.pdf)
-* Soluciones
+* [Soluciones](materials/MT2Sol.pdf)
