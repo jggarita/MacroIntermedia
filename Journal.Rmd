@@ -82,7 +82,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 #### Examen Parcial 1 
 
 * [Examen I-2022](materials/MT1A.pdf) 
-* [Soluciones I-2022](materials/MT1-Solutions.pdf) (Preliminar V2)
+* [Soluciones I-2022](materials/MT1-Solutions.pdf) 
 
 # Tesis 3 
 
@@ -139,5 +139,5 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 ### Examen Parcial 2
 
-* [Examen I-2022](materials/MT2A.pdf)
-* [Soluciones I-2022](materials/MT2Sol.pdf)
+* Examen [ I-2022](materials/MT2A.pdf)
+* Soluciones [ I-2022](materials/MT2Sol.pdf)
