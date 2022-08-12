@@ -20,7 +20,7 @@ Acá puede encontrar los materiales del curso. Las clases, presentaciones, tarea
 
 # Programa (Syllabus)
 
-La versión más reciente del programa del curso [acá.](materials/MacroInternacional_I22.pdf)
+La versión más reciente del programa del curso [acá.](materials/MacroInternacional_II22.pdf)
 
 <br>
 
@@ -31,7 +31,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Balanza de pagos y sostenibilidad de la cuenta corriente
 
 * Capítulo 1 y 2 SUW
-* Notas
+* [Notas](materials/bop_sustca.pdf)
 * Tarea 1 (2 de septiembre)
 
 ### Desbalances globales
