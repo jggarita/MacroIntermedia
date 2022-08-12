@@ -28,15 +28,16 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 <br>
 
-### Desbalances globales y cuenta corriente
+### Balanza de pagos y sostenibilidad de la cuenta corriente
+
+* Capítulo 1 y 2 SUW
+* Notas
+* Tarea 1 (2 de septiembre)
+
+### Desbalances globales
 
 * Capítulo 1 SUW
-* [Notas](materials/Tesis_1.pdf) (incluye sostenibilidad de la cuenta corriente)
-* [Tarea 1](materials/Tarea_1.pdf) (7 de abril)
-
-### Sostenibilidad de la cuenta corriente
-
-* Capítulo 2 SUW
+* Notas
 
 <br>
 
@@ -48,40 +49,40 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulos 9 y 10 del [GLS](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) (Recordatorio del modelo ahorro-consumo)
 * Capítulos 3 y 4 SUW
-* Notas modelo de [dotación](materials/Determinacion_dotacion.pdf)
-* [Tarea 2](materials/Tarea_2.pdf) (28 de abril)
+* Notas modelo de dotación
+
 
 
 ### Determinación de la cuenta corriente en una economía de producción
 
 * Capítulo 5 SUW
-* Notas modelo de [producción](materials/Determinacion_produccion.pdf)
-* [Tarea 3](materials/Tarea_3.pdf) (12 de mayo)
+* Notas modelo de producción
+* Tarea 2
 
 ### Incertidumbre y cuenta corriente
 
 * Sección 9.44 del [GLS](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) (Recordatorio del motivo precautorio del ahorro)
 * Capítulo 6 SUW
-* Notas de [incertidumbre](materials/Incertidumbre.pdf)
+* Notas de incertidumbre
 
 
 ### Economías grandes y abiertas
 
 * Capítulo 7 SUW
-* [Notas](materials/Determinacion_grande.pdf)
-* [Tarea 4](materials/Tarea_4.pdf) (19 de mayo)
+* Notas
+* Tarea 4
 
 
-### Déficits gemelos
+### Política fiscal y déficits gemelos
 
 * Capítulo 8 SUW
-* Notas [déficits gemelos](materials/DeficitsGemelos.pdf)
-* [Tarea 5](materials/Tarea_5.pdf) (26 de mayo)
+* Notas
+* Tarea 5
 
 #### Examen Parcial 1 
 
-* [Examen](materials/MT1A.pdf) 
-* [Soluciones](materials/MT1-Solutions.pdf) (Preliminar V2)
+* [Examen I-2022](materials/MT1A.pdf) 
+* [Soluciones I-2022](materials/MT1-Solutions.pdf) (Preliminar V2)
 
 # Tesis 3 
 
@@ -91,14 +92,14 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 
 * Capítulo 9 SUW
-* Notas [TCR y PPP](materials/TCR_PPP.pdf)
+* Notas TCR y PPP
 
 
 ### Determinantes del tipo de cambio real
 
 * Capítulo 10 SUW
-* Notas [Determinación TCR](materials/Determinacion_TCR.pdf)
-* [Tarea 6](materials/Tarea_6.pdf) (23 de junio)
+* Notas Determinación TCR
+* Tarea 6
 
 # Tesis 4
 
@@ -107,7 +108,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Integración del mercado de capitales
 
 * Capítulo 11 SUW
-* Notas [Integración de capitales](materials/Integracion.pdf)
+* Notas
 
 # Tesis 5
 
@@ -116,31 +117,27 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Rigideces nominales, política cambiaria y desempleo 
 
 * Capítulo 13 SUW
-* [Notas](materials/tcn_rigidw.pdf)
-* 
+* Notas
 
-# Tesis 6
-
-<br>
 
 ### Manejo de paridades cambiarias
 
 * Capítulo 14 SUW
-* [Notas](materials/currency_pegs.pdf)
-* [Tarea 7](materials/Tarea_7.pdf) (7 de julio)
+* Notas
+* Tarea 7
 
 
-# Tesis 7
+# Tesis 6
 
 <br>
 
 ### Finanzas internacionales y crisis de la balanza de pagos
 
 * Capítulo 15 SUW
-* [Notas](materials/bop-crises.pdf)
-* [Tarea 8](materials/Tarea_8.pdf) (No se evaluará)
+* Notas
+* Tarea 8
 
 ### Examen Parcial 2
 
-* [Examen](materials/MT2A.pdf)
-* [Soluciones](materials/MT2Sol.pdf)
+* [Examen I-2022](materials/MT2A.pdf)
+* [Soluciones I-2022](materials/MT2Sol.pdf)

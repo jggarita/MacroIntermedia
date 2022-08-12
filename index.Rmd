@@ -28,8 +28,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 ## Detalles de contacto
 * Prof. Jonathan Garita, Ph.D.
 * Correo del curso: i2022ucr@gmail.com
-* Asistente: Mónica Mora 
-* *Sesión de práctica*: Lunes 17-19:50 (Mismo acceso que la clase)
+* *Sesión de práctica*: Miércoles 17-19 (Mismo acceso que la clase)
 
 ## Evaluación:
 
@@ -49,7 +48,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ## Avisos importantes
 
-* El segundo examen parcial puede descargarse [acá](materials/MT2A.pdf)
+* La tarea 1 ha sido posteada (2 de septiembre)
 
 
 </div>
