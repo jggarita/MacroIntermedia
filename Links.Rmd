@@ -16,7 +16,7 @@ output: html_document
 
 * [The external wealth of nations database](https://www.brookings.edu/research/the-external-wealth-of-nations-database/) 
 * Indicadores económicos del [BCCR](https://www.bccr.fi.cr/indicadores-economicos)
-* World Economic Outlook Database [Octubre 2021](https://www.imf.org/en/Publications/WEO/weo-database/2021/October)
+* World Economic Outlook Database [Abril 2022](https://www.imf.org/en/Publications/WEO/weo-database/2022/April)
 <br>
 
 ### Publicaciones y artículos
