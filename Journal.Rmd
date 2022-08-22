@@ -32,13 +32,14 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 1 y 2 SUW
 * [Notas](materials/bop_sustca.pdf)
-* Notas [Balanza de Pagos](materials/Notas_BP.doc)
+* Notas [Balanza de Pagos](materials/Notas_BP.doc) (Lectura complementaria)
 * [Tarea 1](materials/Tarea_1.pdf) (2 de septiembre)
 
 ### Desbalances globales
 
 * Capítulo 1 SUW
-* Notas
+* [Notas desbalances globales](materials/Desbalances.pdf)
+* Chinn, 2013. [Global Imbalances](materials/global_imbalances.pdf) (Lectura complementaria)
 
 <br>
 
