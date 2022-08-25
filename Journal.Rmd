@@ -51,6 +51,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulos 9 y 10 del [GLS](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) (Recordatorio del modelo ahorro-consumo)
 * Capítulos 3 y 4 SUW
+* Capítulo 1 Obstfeld y Rogoff
 * [Notas modelo dotación](materials/modelo_dotacion.pdf)
 
 
