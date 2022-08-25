@@ -59,6 +59,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Determinación de la cuenta corriente en una economía de producción
 
 * Capítulo 5 SUW
+* Capítulo 1 Obstfeld y Rogoff
 * [Notas modelo producción](materials/modelo_produccion.pdf)
 * Tarea 2
 
@@ -72,6 +73,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Economías grandes y abiertas
 
 * Capítulo 7 SUW
+* Capítulo 1 Obstfeld y Rogoff
 * Notas
 * Tarea 4
 
