@@ -58,7 +58,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Determinación de la cuenta corriente en una economía de producción
 
 * Capítulo 5 SUW
-* Notas modelo de producción
+* [Notas modelo producción](materials/modelo_produccion.pdf)
 * Tarea 2
 
 ### Incertidumbre y cuenta corriente
