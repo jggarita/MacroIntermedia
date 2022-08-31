@@ -53,6 +53,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Capítulos 3 y 4 SUW
 * Capítulo 1 Obstfeld y Rogoff
 * [Notas modelo dotación](materials/modelo_dotacion.pdf)
+* [Tarea 2](materials/Tarea_2.pdf) (16 de septiembre)
 
 
 
@@ -61,7 +62,6 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Capítulo 5 SUW
 * Capítulo 1 Obstfeld y Rogoff
 * [Notas modelo producción](materials/modelo_produccion.pdf)
-* Tarea 2
 
 ### Incertidumbre y cuenta corriente
 
@@ -75,14 +75,14 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Capítulo 7 SUW
 * Capítulo 1 Obstfeld y Rogoff
 * Notas
-* Tarea 4
+* Tarea 3
 
 
 ### Política fiscal y déficits gemelos
 
 * Capítulo 8 SUW
 * Notas
-* Tarea 5
+* Tarea 4
 
 #### Examen Parcial 1 
 
