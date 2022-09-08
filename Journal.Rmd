@@ -60,8 +60,8 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Determinación de la cuenta corriente en una economía de producción
 
 * Capítulo 5 SUW
-* Capítulo 1 Obstfeld y Rogoff
-* [Notas modelo producción](materials/modelo_produccion.pdf)
+* Sección 1.2 Obstfeld y Rogoff
+* [Notas modelo producción](materials/modelo_produccion.pdf) (nueva versión)
 
 ### Incertidumbre y cuenta corriente
 
