@@ -61,7 +61,9 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 5 SUW
 * Sección 1.2 Obstfeld y Rogoff
-* [Notas modelo producción](materials/modelo_produccion.pdf) (nueva versión)
+* [Notas modelo producción](materials/modelo_produccion.pdf) 
+* [Tarea 3](materials/Tarea_3.pdf) (30 de septiembre) [Subir](https://www.dropbox.com/request/AuSyBBVEsms3YBPMTHfO)
+
 
 ### Incertidumbre y cuenta corriente
 
