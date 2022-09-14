@@ -62,7 +62,6 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Capítulo 5 SUW
 * Sección 1.2 Obstfeld y Rogoff
 * [Notas modelo producción](materials/modelo_produccion.pdf) 
-* [Tarea 3](materials/Tarea_3.pdf) (30 de septiembre) [Subir](https://www.dropbox.com/request/AuSyBBVEsms3YBPMTHfO)
 
 
 ### Incertidumbre y cuenta corriente
@@ -75,9 +74,9 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Economías grandes y abiertas
 
 * Capítulo 7 SUW
-* Capítulo 1 Obstfeld y Rogoff
-* Notas
-* Tarea 3
+* Sección 1.3 Obstfeld y Rogoff
+* [Notas](materials/Determinacion_grande.pdf)
+* [Tarea 3](materials/Tarea_3.pdf) (30 de septiembre) [Subir](https://www.dropbox.com/request/AuSyBBVEsms3YBPMTHfO)
 
 
 ### Política fiscal y déficits gemelos
