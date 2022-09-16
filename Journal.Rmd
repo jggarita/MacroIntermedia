@@ -64,13 +64,6 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * [Notas modelo producción](materials/modelo_produccion.pdf) 
 
 
-### Incertidumbre y cuenta corriente
-
-* Sección 9.44 del [GLS](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) (Recordatorio del motivo precautorio del ahorro)
-* Capítulo 6 SUW
-* Notas de incertidumbre
-
-
 ### Economías grandes y abiertas
 
 * Capítulo 7 SUW
@@ -81,6 +74,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 ### Política fiscal y déficits gemelos
 
+* [Notas](materials/Dinamica_deuda.pdf) dinámica de deuda
 * Capítulo 8 SUW
 * Notas
 * Tarea 4
