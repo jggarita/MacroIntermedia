@@ -61,7 +61,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 5 SUW
 * Sección 1.2 Obstfeld y Rogoff
-* [Notas modelo producción](materials/modelo_produccion.pdf) 
+* [Notas modelo producción](materials/Determinacion_produccion.pdf) 
 
 
 ### Economías grandes y abiertas
