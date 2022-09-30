@@ -53,7 +53,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Capítulos 3 y 4 SUW
 * Capítulo 1 Obstfeld y Rogoff
 * [Notas modelo dotación](materials/modelo_dotacion.pdf)
-* [Tarea 2](materials/Tarea_2.pdf) (16 de septiembre) [Subir](https://www.dropbox.com/request/AuSyBBVEsms3YBPMTHfO)
+* [Tarea 2](materials/Tarea_2.pdf) (16 de septiembre) 
 
 
 
@@ -77,7 +77,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * [Notas](materials/Dinamica_deuda.pdf) dinámica de deuda
 * Capítulo 8 SUW
 * [Notas](materials/DeficitsGemelos.pdf) déficits gemelos V2
-* Tarea 4
+* [Tarea 4](materials/Tarea_4.pdf) (14 de octubre) [Subir](https://www.dropbox.com/request/AuSyBBVEsms3YBPMTHfO)
 
 #### Examen Parcial 1 
 
