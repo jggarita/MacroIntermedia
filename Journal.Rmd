@@ -88,11 +88,11 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 <br>
 
-### Tipo de cambio real y paridad del poder de compra
+### Tipo de cambio real y paridad de poder de compra
 
 
 * Capítulo 9 SUW
-* Notas TCR y PPP
+* [Notas](materials/TCR_PPP.pdf) TCR y PPP
 
 
 ### Determinantes del tipo de cambio real
