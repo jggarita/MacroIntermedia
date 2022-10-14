@@ -49,7 +49,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 ## Avisos importantes
 
 * La tarea 4 ha sido posteada (21 de octubre) [Subir archivo acá](https://www.dropbox.com/request/AuSyBBVEsms3YBPMTHfO)
-* El primer parcial es el 14 de octubre de 5 a 8 pm. 
+* Acá puede encontrar la versión que le corresponde del parcial: [Distribución](materials/distribucion_parcial.pdf)
 
 </div>
 <div class="col-sm-6">
