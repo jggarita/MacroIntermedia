@@ -69,7 +69,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * Capítulo 7 SUW
 * Sección 1.3 Obstfeld y Rogoff
 * [Notas](materials/Determinacion_grande.pdf)
-* [Tarea 3](materials/Tarea_3.pdf) (30 de septiembre) [Subir](https://www.dropbox.com/request/AuSyBBVEsms3YBPMTHfO)
+* [Tarea 3](materials/Tarea_3.pdf) (30 de septiembre) 
 
 
 ### Política fiscal y déficits gemelos
@@ -98,8 +98,8 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Determinantes del tipo de cambio real
 
 * Capítulo 10 SUW
-* Notas Determinación TCR
-* Tarea 6
+* [Notas](materials/determinantes_tcr.pdf) Determinación TCR
+* [Tarea 5](materials/Tarea_5.pdf) [Subir](https://www.dropbox.com/request/AuSyBBVEsms3YBPMTHfO)
 
 # Tesis 4
 
