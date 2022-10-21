@@ -108,7 +108,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Integración del mercado de capitales
 
 * Capítulo 11 SUW
-* Notas
+* [Notas](materials/Integracion.pdf) intregración del mercado de capitales y Forex
 
 # Tesis 5
 
@@ -124,7 +124,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 14 SUW
 * Notas
-* Tarea 7
+* Tarea 6
 
 
 # Tesis 6
@@ -135,7 +135,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 * Capítulo 15 SUW
 * Notas
-* Tarea 8
+* Tarea 7
 
 ### Examen Parcial 2
 
