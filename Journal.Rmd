@@ -92,6 +92,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 
 * Capítulo 9 SUW
+* Van Patten (2021) ¿Qué tan caro es Costa Rica respecto a la OECD? [Link](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/352/2021-DT-06.pdf?sequence=1&isAllowed=y)
 * [Notas](materials/TCR_PPP.pdf) TCR y PPP
 
 
@@ -118,7 +119,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Rigideces nominales, política cambiaria y desempleo 
 
 * Capítulo 13 SUW
-* Notas
+* [Notas](materials/tcn_rigidw.pdf) 
 
 
 ### Manejo de paridades cambiarias
