@@ -81,7 +81,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 #### Examen Parcial 1 
 
-* II-2022: [Examen A](materials/MT1A.pdf), [Examen B](materials/MT1B.pdf) y [Examen C](materials/MT1C.pdf) [Soluciones II-2022](materials/MT1sol.pdf) [Distribución](materials/distribucion_parcial.pdf)
+* II-2022: [Examen A](materials/MT1A.pdf), [Examen B](materials/MT1B.pdf) y [Examen C](materials/MT1C.pdf) [Soluciones II-2022](materials/MT1Sol.pdf) [Distribución](materials/distribucion_parcial.pdf)
 * [Examen I-2022](materials/MT1A.pdf) [Soluciones I-2022](materials/MT1-Solutions.pdf) 
 
 # Tesis 3 
