@@ -37,3 +37,9 @@ output: html_document
 
 * Van Patten (2021) ¿Qué tan caro es Costa Rica respecto a la OECD? [Link](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/352/2021-DT-06.pdf?sequence=1&isAllowed=y)
 
+#### Tesis 4: Determinación del tipo de cambio real
+
+* Alfaro y Sandoval (2022) Análisis histórico del tipo de cambio real en Costa Rica [Link](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/367/2022-DT-02.pdf?sequence=1&isAllowed=y)
+
+
+
