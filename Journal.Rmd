@@ -137,7 +137,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Finanzas internacionales y crisis de la balanza de pagos
 
 * Capítulo 15 SUW
-* [Notas](bop-crises.pdf)
+* [Notas](materials/crisiscambiarias.pdf)
 * [Tarea 7](materials/PS7.pdf) (2 de diciembre)
 
 ### Examen Parcial 2
