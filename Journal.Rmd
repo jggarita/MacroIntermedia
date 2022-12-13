@@ -142,5 +142,5 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 ### Examen Parcial 2
 
-* Examen [ I-2022](materials/MT2A.pdf)
-* Soluciones [ I-2022](materials/MT2Sol.pdf)
+* Examen [ II-2022](materials/MT2_general.pdf) Soluciones [ II-2022](materials/MT2-sol.pdf)
+* Examen [ I-2022](materials/MT2A.pdf) Soluciones [ I-2022](materials/MT2Sol.pdf)
