@@ -6,7 +6,7 @@ output:
     toc_float: true
     collapsed: false
     number_sections: false
-    toc_depth: 1
+    toc_depth: 3
     #code_folding: hide
 ---
 
@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-Acá puede encontrar los materiales del curso. Las clases, presentaciones, tareas y otros fueron basadas en el libro [*International Macroeconomics: A Modern Approach"*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) de Stephanie Schmitt-Grohé, Martín Uribe, and Michael Woodford (SUW).
+Acá puede encontrar los materiales del curso. Las clases, presentaciones, tareas y otros fueron basadas en el libro [*Intermediate Macroeconomics*](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) de Julio Garín, Robert Lester y Eric Sims.
 
 <br>
 
@@ -24,123 +24,137 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 <br>
 
-# Tesis 1
+
+## Tesis 1: Enfoque Intertemporal del consumo y ahorro
 
 <br>
 
-### Balanza de pagos y sostenibilidad de la cuenta corriente
+### Repaso matemático
 
-* Capítulo 1 y 2 SUW
+* Apéndice A GLS
+* [Práctica 0](materials/Tarea_1.pdf) 
+
+
+### Modelo de consumo y ahorro de dos períodos
+
+* Capítulo 9 GLS
 * [Notas](materials/bop_sustca.pdf)
-* Notas [Balanza de Pagos](materials/Notas_BP.doc) (Lectura complementaria)
-* [Tarea 1](materials/Tarea_1.pdf) (2 de septiembre)
+* [Práctica 1](materials/Tarea_1.pdf)
 
-### Desbalances globales
+### Modelo de consumo y ahorro intertemporal
 
-* Capítulo 1 SUW
-* [Notas desbalances globales](materials/Desbalances.pdf)
-* Chinn, 2013. [Global Imbalances](materials/global_imbalances.pdf) (Lectura complementaria)
-
-<br>
-
-# Tesis 2 
+* Capítulo 10 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 2](materials/Tarea_1.pdf) 
 
 <br>
 
-### Una teoría intertemporal de la cuenta corriente
-
-* Capítulos 9 y 10 del [GLS](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) (Recordatorio del modelo ahorro-consumo)
-* Capítulos 3 y 4 SUW
-* Capítulo 1 Obstfeld y Rogoff
-* [Notas modelo dotación](materials/modelo_dotacion.pdf)
-* [Tarea 2](materials/Tarea_2.pdf) (16 de septiembre) 
-
-
-
-### Determinación de la cuenta corriente en una economía de producción
-
-* Capítulo 5 SUW
-* Sección 1.2 Obstfeld y Rogoff
-* [Notas modelo producción](materials/Determinacion_produccion.pdf) 
-
-
-### Economías grandes y abiertas
-
-* Capítulo 7 SUW
-* Sección 1.3 Obstfeld y Rogoff
-* [Notas](materials/Determinacion_grande.pdf)
-* [Tarea 3](materials/Tarea_3.pdf) (30 de septiembre) 
-
-
-### Política fiscal y déficits gemelos
-
-* [Notas](materials/Dinamica_deuda.pdf) dinámica de deuda
-* Capítulo 8 SUW
-* [Notas](materials/DeficitsGemelos.pdf) déficits gemelos V2
-* [Tarea 4](materials/Tarea_4.pdf) [Datos](materials/datos_primario.xlsx) (21 de octubre) 
-
-#### Examen Parcial 1 
-
-* II-2022: [Examen A](materials/MT1A.pdf), [Examen B](materials/MT1B.pdf) y [Examen C](materials/MT1C.pdf) [Soluciones II-2022](materials/MT1Sol.pdf) [Distribución](materials/distribucion_parcial.pdf)
-* [Examen I-2022](materials/MT1A.pdf) [Soluciones I-2022](materials/MT1-Solutions.pdf) 
-
-# Tesis 3 
+## Tesis 2: Modelo Neoclásico
 
 <br>
 
-### Tipo de cambio real y paridad de poder de compra
+### Modelo con producción
+
+* Capítulos 12.1 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 3](materials/Tarea_1.pdf) 
 
 
-* Capítulo 9 SUW
-* Van Patten (2021) ¿Qué tan caro es Costa Rica respecto a la OECD? [Link](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/352/2021-DT-06.pdf?sequence=1&isAllowed=y)
-* [Notas](materials/TCR_PPP.pdf) TCR y PPP
+### Oferta laboral: Modelo de ocio y trabajo
+
+* Capítulos 12.2 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 4](materials/Tarea_1.pdf) 
 
 
-### Determinantes del tipo de cambio real
+### Equilibrio competitivo de economía de producción
 
-* Capítulo 10 SUW
-* Devereux: Real Exchange Rates and the Balassa-Samuelson Effect Revisited [Link](https://www.nber.org/reporter/2014number4/real-exchange-rates-and-balassa-samuelson-effect-revisited)
-* [Notas](materials/determinantes_tcr.pdf) Determinación TCR
-* [Tarea 5](materials/Tarea_5.pdf) (4 de noviembre) 
-* Alfaro y Sandoval (2022) Análisis histórico del tipo de cambio real en Costa Rica [Link](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/367/2022-DT-02.pdf?sequence=1&isAllowed=y)
+* Capítulos 12.3 y 12.4 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 5](materials/Tarea_1.pdf) 
 
-# Tesis 4
+
+### Gobierno y política fiscal
+
+* Capítulos 13 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 6](materials/Tarea_1.pdf) 
+
+### Dinero
+
+* Capítulos 14 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 7](materials/Tarea_1.pdf) 
+
+### Eficiencia del equilibrio
+
+* Capítulos 15 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 8](materials/Tarea_1.pdf) 
+
+### Representación gráfica del modelo Neoclásico
+
+* Capítulos 18 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 9](materials/Tarea_1.pdf)
+
+### Efecto de choques bajo el modelo Neoclásico
+
+* Capítulos 19 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 10](materials/Tarea_1.pdf)
+
+
+### Modelo Neoclásico con economía abierta
+
+* Capítulos 23 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 11](materials/Tarea_1.pdf)
+
+### Implicaciones de política y críticas al modelo neoclásico
+
+* Capítulos 22 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 12](materials/Tarea_1.pdf)
 
 <br>
 
-### Integración del mercado de capitales
-
-* Capítulo 11 SUW
-* [Notas](materials/Integracion.pdf) intregración del mercado de capitales y Forex
-
-# Tesis 5
+## Tesis 3: Modelo Neokeynesiano
 
 <br>
 
-### Rigideces nominales, política cambiaria y desempleo 
+### Bloque de demanda Neokeynesiano
 
-* Capítulo 13 SUW
-* [Notas](materials/tcn_rigidw.pdf) 
+* Capítulos 24 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 13](materials/Tarea_1.pdf)
 
+### Bloque de oferta Neokeynesiano
 
-### Manejo de paridades cambiarias
+* Capítulos 25 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 14](materials/Tarea_1.pdf)
 
-* Capítulo 14 SUW
-* [Notas](materials/currency_pegs.pdf) 
-* [Tarea 6](materials/PS6.pdf) (18 de noviembre) 
+### Efecto de choques bajo el modelo Neokeynesiano
 
+* Capítulos 26 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 15](materials/Tarea_1.pdf)
 
-# Tesis 6
+### Dinámica de transición entre el corto y mediano plazo
 
-<br>
+* Capítulos 27 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 16](materials/Tarea_1.pdf)
 
-### Finanzas internacionales y crisis de la balanza de pagos
+### Política monetaria bajo el modelo Neokeynesiano
 
-* Capítulo 15 SUW
-* [Notas](materials/crisiscambiarias.pdf)
-* [Tarea 7](materials/PS7.pdf) (2 de diciembre)
+* Capítulos 28 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 17](materials/Tarea_1.pdf)
 
-### Examen Parcial 2
+### Modelo Neokeynesiano con economía abierta
 
-* Examen [ II-2022](materials/MT2_general.pdf) Soluciones [ II-2022](materials/MT2-sol.pdf)
-* Examen [ I-2022](materials/MT2A.pdf) Soluciones [ I-2022](materials/MT2Sol.pdf)
+* Capítulos 29 GLS
+* [Notas](materials/bop_sustca.pdf)
+* [Práctica 18](materials/Tarea_1.pdf)

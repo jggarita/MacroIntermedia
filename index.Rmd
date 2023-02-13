@@ -25,33 +25,32 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 <br>
 
-## Detalles de contacto
+### Detalles del curso
 * Prof. Jonathan Garita, Ph.D.
 * Correo del curso: i2022ucr@gmail.com
-* *Horas de consulta*: Martes 18-19 (Mismo acceso que la clase) o cita previa 
+* Asistente: Alejando Guevara
+* **Hora de clase:** Lunes y jueves 18-19:50. *208 AU*
+* **Laboratorio:** Miércoles 8-9:50 *208 AU*
+* **Horas de consulta**: Cita previa (Zoom)
 
-## Evaluación:
+### Evaluación:
 
-1. Tareas y asignaciones: 25%
+1. Tareas y asignaciones: 10%
 
-2. Primer parcial: 25%
+2. Primer parcial: 30%
 
-3. Segundo parcial 25%
+3. Segundo parcial 30%
 
-3. Tercer parcial 25%
+3. Tercer parcial 30%
 
 
-## Referencias:
-
-* Schmitt-Grohé, Uribe, y Woodford. [*International Macroeconomics: A Modern Approach"*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) **(May 25, 2021)**
-
-## Nuestra Playlist:
+### Nuestra Playlist:
 
 [Spotify](https://open.spotify.com/playlist/5CkCbnw6dOg8GJj2dCFMkq?si=33b7196772fc482e)
 
-## Avisos importantes
+### Avisos importantes
 
-* El segundo parcial es **sábado 10 de diciembre** a las **10 am** en el **aula 204 AU**. La reposición es el **viernes 9 de diciembre** a las **10 am** en el **aula 240 CE**.
+* El repaso matemático y la primera tarea han sido posteadas.
 
 </div>
 <div class="col-sm-6">
