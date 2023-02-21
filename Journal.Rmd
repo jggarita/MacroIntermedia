@@ -32,20 +32,20 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 ### Repaso matemático
 
 * Apéndice A GLS
-* [Práctica 0](materials/Tarea_1.pdf) 
+* [Práctica 0](materials/PS0.pdf) 
 
 
 ### Modelo de consumo y ahorro de dos períodos
 
 * Capítulo 9 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 1](materials/Tarea_1.pdf)
+* [Notas](materials/Modelo_consumo_ahorro.pdf)
+* [Práctica 1](materials/PS1.pdf)
 
 ### Modelo de consumo y ahorro intertemporal
 
 * Capítulo 10 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 2](materials/Tarea_1.pdf) 
+* [Notas](materials/Modelo_intertemporal_consumo.pdf)
+* [Práctica 2](materials/PS2.pdf) 
 
 <br>
 
