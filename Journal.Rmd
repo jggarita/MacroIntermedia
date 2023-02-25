@@ -35,13 +35,13 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * [Práctica 0](materials/PS0.pdf) 
 
 
-### Modelo de consumo y ahorro de dos períodos
+### Decisiones óptimas de consumo y ahorro en un marco de dos periodos
 
 * Capítulo 9 GLS
 * [Notas](materials/Modelo_consumo_ahorro.pdf)
 * [Práctica 1](materials/PS1.pdf)
 
-### Modelo de consumo y ahorro intertemporal
+### Modelo de consumo y ahorro con múltiples periodos
 
 * Capítulo 10 GLS
 * [Notas](materials/Modelo_intertemporal_consumo.pdf)
@@ -49,60 +49,57 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 <br>
 
-## Tesis 2: Modelo Neoclásico
+## Tesis 2: Equilibrio competitivo con producción, gobierno y dinero
 
 <br>
 
-### Modelo con producción
+### Decisiones de producción de la empresa
 
 * Capítulos 12.1 GLS
 * [Notas](materials/bop_sustca.pdf)
 * [Práctica 3](materials/Tarea_1.pdf) 
 
 
-### Oferta laboral: Modelo de ocio y trabajo
+### Decisiones de oferta laboral
 
 * Capítulos 12.2 GLS
 * [Notas](materials/bop_sustca.pdf)
 * [Práctica 4](materials/Tarea_1.pdf) 
 
 
-### Equilibrio competitivo de economía de producción
+### Equilibrio competitivo 
 
 * Capítulos 12.3 y 12.4 GLS
 * [Notas](materials/bop_sustca.pdf)
 * [Práctica 5](materials/Tarea_1.pdf) 
 
 
-### Gobierno y política fiscal
+### Economía de producción con gobierno
 
 * Capítulos 13 GLS
 * [Notas](materials/bop_sustca.pdf)
 * [Práctica 6](materials/Tarea_1.pdf) 
 
-### Dinero
+### Economía de producción con dinero
 
 * Capítulos 14 GLS
 * [Notas](materials/bop_sustca.pdf)
 * [Práctica 7](materials/Tarea_1.pdf) 
 
-### Eficiencia del equilibrio
+
+## Tesis 3: Dinámica de mediano plazo: Modelo neoclásico
+
+### Planteamiento del modelo neoclásico
 
 * Capítulos 15 GLS
 * [Notas](materials/bop_sustca.pdf)
 * [Práctica 8](materials/Tarea_1.pdf) 
 
-### Representación gráfica del modelo Neoclásico
+### Choques de oferta y demanda bajo el modelo neoclásico
 
 * Capítulos 18 GLS
 * [Notas](materials/bop_sustca.pdf)
 * [Práctica 9](materials/Tarea_1.pdf)
-
-### Efecto de choques bajo el modelo Neoclásico
-
-* Capítulos 19 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 10](materials/Tarea_1.pdf)
 
 
 ### Modelo Neoclásico con economía abierta
@@ -119,7 +116,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 <br>
 
-## Tesis 3: Modelo Neokeynesiano
+## Tesis 3: Dinámica de corto plazo: Modelo Neokeynesiano
 
 <br>
 
@@ -129,7 +126,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 * [Notas](materials/bop_sustca.pdf)
 * [Práctica 13](materials/Tarea_1.pdf)
 
-### Bloque de oferta Neokeynesiano
+### Bloque de oferta neokeynesiano
 
 * Capítulos 25 GLS
 * [Notas](materials/bop_sustca.pdf)
