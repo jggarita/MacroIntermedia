@@ -27,11 +27,11 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Detalles del curso
 * Prof. Jonathan Garita, Ph.D.
-* Correo del curso: i2022ucr@gmail.com
+* Correo del curso: MacroIntermediaUCR@gmail.com
 * Asistente: Alejando Guevara
 * **Hora de clase:** Lunes y jueves 18-19:50. *208 AU*
 * **Laboratorio:** Miércoles 8-9:50 *208 AU*
-* **Horas de consulta**: Cita previa (Zoom)
+* **Horas de consulta**: Jueves 5-7pm (Cita previa)
 
 ### Evaluación:
 
@@ -50,7 +50,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* El repaso matemático y la primera tarea han sido posteadas.
+* El repaso matemático y la primera práctica han sido posteadas.
 
 </div>
 <div class="col-sm-6">
