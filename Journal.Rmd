@@ -56,7 +56,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Decisiones de producción de la empresa
 
 * Capítulos 12.1 GLS
-* [Notas](materials/bop_sustca.pdf)
+* [Notas](materials/Modelo_produccion.pdf)
 * [Práctica 3](materials/Tarea_1.pdf) 
 
 
