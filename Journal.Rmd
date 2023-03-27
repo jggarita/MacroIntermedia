@@ -57,8 +57,8 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 * Capítulos 12.1 GLS
 * [Notas](materials/Modelo_produccion.pdf)
-* [Práctica 3](materials/Tarea_1.pdf) 
-
+* [Práctica 3](materials/PS3.pdf) 
+* [Tarea 1](materials/Tarea_1.pdf). Entrega: 17 de abril.
 
 ### Decisiones de oferta laboral
 
