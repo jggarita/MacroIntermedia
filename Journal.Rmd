@@ -56,7 +56,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Hechos estilizados del ciclo económico
 
 * Capítulos 20.1 GLS
-* [Notas](materials/ciclo_economico.pdf)
+* [Notas](materials/ciclo_economico_he.pdf)
 
 ### Decisiones de producción de la empresa
 
