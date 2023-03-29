@@ -18,28 +18,23 @@ output: html_document
 * Indicadores económicos del [BCCR](https://www.bccr.fi.cr/indicadores-economicos)
 * World Economic Outlook Database [Abril 2022](https://www.imf.org/en/Publications/WEO/weo-database/2022/April)
 <br>
+* FRED [data](https://fred.stlouisfed.org/)
+* Penn World Tables [10.01](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
 
-### Publicaciones y artículos
+### Lecturas recomendadas
 
 <br>
 
-#### Tesis 1: Desbalances globales y cuenta corriente
+#### Consumo y ahorro
 
-* Atkeson, A., Heathcote, J., & Perri, F. (2022). The end of privilege: A reexamination of the net foreign asset position of the United States (No. w29771). National Bureau of Economic Research.[Link](https://www.nber.org/papers/w29771) [Resumen](https://www.nber.org/digest-202204/explaining-decline-us-net-foreign-asset-position)
+* Allen, F. and D. Gale (2007): Understanding Financial Crises, Oxford University Press, Oxford, England. (ch. 2.1) (CW)
+* Moss, D.A. (2002): When All Else Fails: The Government as the Ultimate Risk Manager, Harvard University Press, Cambridge, MA. (ch. 5)
+* Mankiw, N.G. (2009): Macroeconomics, Worth Publishers, New York, NY. (7th edition) (chapter 17)
+* Barro, R.J. (1997): Macroeconomics, MIT Press, Cambridge, MA. (5th edition) (ch. 3)
+* Carrol, C.D. (2001): “A Theory of the Consumption Function, with and without Liquidity Constraints,” Journal of Economic Perspectives, 15(3), 23-45. [Descargar](materials/Readings/Carroll2001.pdf)
+* Angeletos, G.M., D. Laibson, A. Repetto, J. Tobacman and S. Weinberg (2001): “The Hyperbolic Consumption Model: Calibration, Simulation, and Empirical Evidence,” Journal of Economic Perspectives, 15(3), 47-68. [Descargar](materials/Readings/Angeletos2001.pdf)
+* **Gourinchas, P.O. and J.A. Parker (2002): “Consumption over the Life Cycle,” Econometrica, 70(1), 47-89. [Descargar](materials/Readings/GourinchasParker2002.pdf)**
 
-#### Tesis 2: Determinación de la cuenta corriente
-
-* Arezki, R., Ramey, V. A., & Sheng, L. (2017). News shocks in open economies: Evidence from giant oil discoveries. The Quarterly Journal of Economics, 132(1), 103-155.[Link](https://econweb.ucsd.edu/~vramey/research/ARS-QJE-published.pdf) 
-
-#### Tesis 3: Tipo de cambio real y PPP
-
-* Devereux (2014) Real Exchange Rates and the Balassa-Samuelson Effect Revisited [Link](https://www.nber.org/reporter/2014number4/real-exchange-rates-and-balassa-samuelson-effect-revisited)
-
-* Van Patten (2021) ¿Qué tan caro es Costa Rica respecto a la OECD? [Link](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/352/2021-DT-06.pdf?sequence=1&isAllowed=y)
-
-#### Tesis 4: Determinación del tipo de cambio real
-
-* Alfaro y Sandoval (2022) Análisis histórico del tipo de cambio real en Costa Rica [Link](https://repositorioinvestigaciones.bccr.fi.cr/bitstream/handle/20.500.12506/367/2022-DT-02.pdf?sequence=1&isAllowed=y)
 
 
 
