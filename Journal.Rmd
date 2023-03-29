@@ -68,28 +68,28 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Decisiones de oferta laboral
 
 * Capítulos 12.2 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 4](materials/Tarea_1.pdf) 
+* Notas
+* Práctica 
 
 
 ### Equilibrio competitivo 
 
 * Capítulos 12.3 y 12.4 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 5](materials/Tarea_1.pdf) 
+* Notas
+* Práctica 
 
 
 ### Economía de producción con gobierno
 
 * Capítulos 13 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 6](materials/Tarea_1.pdf) 
+* Notas
+* Práctica 
 
 ### Economía de producción con dinero
 
 * Capítulos 14 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 7](materials/Tarea_1.pdf) 
+* Notas
+* Práctica 
 
 
 ## Tesis 3: Dinámica de mediano plazo: Modelo neoclásico
@@ -97,27 +97,27 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Planteamiento del modelo neoclásico
 
 * Capítulos 15 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 8](materials/Tarea_1.pdf) 
+* Notas
+* Práctica 
 
 ### Choques de oferta y demanda bajo el modelo neoclásico
 
 * Capítulos 18 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 9](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
 
 
 ### Modelo Neoclásico con economía abierta
 
 * Capítulos 23 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 11](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
 
 ### Implicaciones de política y críticas al modelo neoclásico
 
 * Capítulos 22 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 12](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
 
 <br>
 
@@ -128,35 +128,35 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Bloque de demanda Neokeynesiano
 
 * Capítulos 24 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 13](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
 
 ### Bloque de oferta neokeynesiano
 
 * Capítulos 25 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 14](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
 
 ### Efecto de choques bajo el modelo Neokeynesiano
 
 * Capítulos 26 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 15](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
 
 ### Dinámica de transición entre el corto y mediano plazo
 
 * Capítulos 27 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 16](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
 
 ### Política monetaria bajo el modelo Neokeynesiano
 
 * Capítulos 28 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 17](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
 
 ### Modelo Neokeynesiano con economía abierta
 
 * Capítulos 29 GLS
-* [Notas](materials/bop_sustca.pdf)
-* [Práctica 18](materials/Tarea_1.pdf)
+* Notas
+* Práctica 
