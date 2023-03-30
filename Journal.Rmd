@@ -46,7 +46,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 * Capítulo 10 GLS
 * [Notas](materials/Modelo_intertemporal_consumo.pdf)
 * [Práctica 2](materials/PS2.pdf) 
-
+* [Borrar](materials/ConsumptionSavings.pptx)
 <br>
 
 ## Tesis 2: Equilibrio competitivo con producción, gobierno y dinero
