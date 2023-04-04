@@ -68,7 +68,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Decisiones de oferta laboral
 
 * Capítulos 12.2 GLS
-* Notas
+* [Notas](materials/Modelo_ocio.pdf)
 * Práctica 
 
 
