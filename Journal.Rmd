@@ -75,7 +75,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Equilibrio competitivo 
 
 * Capítulos 12.3 y 12.4 GLS
-* Notas
+* [Notas](materials/Modelo_equilibrio.pdf)
 * Práctica 
 
 
