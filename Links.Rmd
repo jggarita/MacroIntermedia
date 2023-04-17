@@ -35,6 +35,9 @@ output: html_document
 * Angeletos, G.M., D. Laibson, A. Repetto, J. Tobacman and S. Weinberg (2001): “The Hyperbolic Consumption Model: Calibration, Simulation, and Empirical Evidence,” Journal of Economic Perspectives, 15(3), 47-68. [Descargar](materials/Readings/Angeletos2001.pdf)
 * **Gourinchas, P.O. and J.A. Parker (2002): “Consumption over the Life Cycle,” Econometrica, 70(1), 47-89. [Descargar](materials/Readings/GourinchasParker2002.pdf)**
 
+#### Oferta laboral
+
+* Martinez, I. Z., Saez, E., & Siegenthaler, M. (2021). Intertemporal labor supply substitution? Evidence from the swiss income tax holidays. American Economic Review, 111(2), 506-546. [Descargar](materials/Readings/martinez-saez-siegenthalerAER21.pdf)
 
 
 
