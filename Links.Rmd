@@ -39,6 +39,6 @@ output: html_document
 
 * Martinez, I. Z., Saez, E., & Siegenthaler, M. (2021). Intertemporal labor supply substitution? Evidence from the swiss income tax holidays. American Economic Review, 111(2), 506-546. [Descargar](materials/Readings/martinez-saez-siegenthalerAER21.pdf)
 
-*Sigurdsson, J. (2022). Labor supply responses and adjustment frictions: A tax-free year in Iceland. Working Paper. [Descargar](materials/Readings/sigurdsson.pdf)
+* Sigurdsson, J. (2022). Labor supply responses and adjustment frictions: A tax-free year in Iceland. Working Paper. [Descargar](materials/Readings/sigurdsson.pdf)
 
 
