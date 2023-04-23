@@ -88,7 +88,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Economía de producción con gobierno
 
 * Capítulos 13 GLS
-* Notas
+* [Notas](materials/Politica_Fiscal.pdf)
 * Práctica 
 
 ### Economía de producción con dinero
