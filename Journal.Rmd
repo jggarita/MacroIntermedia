@@ -93,8 +93,8 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 ### Economía de producción con dinero
 
-* Capítulos 14 GLS
-* Notas
+* Capítulos 14, 21 y 32 GLS
+* Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf)
 * Práctica 
 
 
