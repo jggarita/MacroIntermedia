@@ -63,7 +63,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 * Capítulo 12.1 GLS
 * [Notas](materials/Modelo_produccion.pdf)
 * [Práctica 3](materials/PS3.pdf) 
-* [Tarea 1](materials/Tarea1.pdf). Entrega: 21 de abril. [Subir](https://www.dropbox.com/request/BdXuATo47U3QmDWA4UB4)
+* [Tarea 1](materials/Tarea1.pdf). 
 
 ### Decisiones de oferta laboral
 
@@ -111,6 +111,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 * Capítulos 18 GLS
 * Notas
 * Práctica 
+* [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo.
 
 
 ### Modelo Neoclásico con economía abierta
