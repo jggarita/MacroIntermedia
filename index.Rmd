@@ -52,7 +52,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 ### Avisos importantes
 
 * La [tarea 3](materials/Tarea3.pdf) ha sido posteada. Entrega: 26 de mayo. 
-* El primer parcial será el sábado 6 de mayo a las 8 am. 
+* El primer parcial será el sábado 6 de mayo a las **8 am**. 
 
 </div>
 <div class="col-sm-6">
