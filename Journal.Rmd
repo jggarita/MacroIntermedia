@@ -96,27 +96,18 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 * Capítulos 14, 21 y 32 GLS
 * Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf)
 
+<br>
 
-## Tesis 3: Dinámica de mediano plazo: Modelo neoclásico
+## Tesis 3: Dinámica de mediano plazo
 
-### Planteamiento del modelo neoclásico
+<br>
 
-* Capítulos 15 GLS
+### Modelo neoclásico: efecto de choques de oferta y demanda
+
+* Capítulos 15, 18 y 19 GLS
 * [Práctica 7](materials/PS7.pdf) 
-
-### Choques de oferta y demanda bajo el modelo neoclásico
-
-* Capítulos 18 GLS
-* Notas
-* Práctica 
 * [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo.
 
-
-### Modelo Neoclásico con economía abierta
-
-* Capítulos 23 GLS
-* Notas
-* Práctica 
 
 ### Implicaciones de política y críticas al modelo neoclásico
 
@@ -126,7 +117,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 <br>
 
-## Tesis 3: Dinámica de corto plazo: Modelo Neokeynesiano
+## Tesis 4: Dinámica de corto plazo
 
 <br>
 
@@ -160,8 +151,23 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 * Notas
 * Práctica 
 
+<br>
+
+## Tesis 5: Modelos de economía abierta
+
+<br>
+
+### Modelo Neoclásico con economía abierta
+
+* Capítulos 23 GLS
+* Notas
+* Práctica 
+
 ### Modelo Neokeynesiano con economía abierta
 
 * Capítulos 29 GLS
 * Notas
 * Práctica 
+
+
+
