@@ -95,7 +95,6 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 * Capítulos 14, 21 y 32 GLS
 * Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf)
-* Práctica 
 
 
 ## Tesis 3: Dinámica de mediano plazo: Modelo neoclásico
@@ -103,8 +102,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Planteamiento del modelo neoclásico
 
 * Capítulos 15 GLS
-* Notas
-* Práctica 
+* [Práctica 7](materials/PS7.pdf) 
 
 ### Choques de oferta y demanda bajo el modelo neoclásico
 
