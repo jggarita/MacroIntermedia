@@ -112,8 +112,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Implicaciones de política y críticas al modelo neoclásico
 
 * Capítulos 22 GLS
-* Notas
-* Práctica 
+* [Notas](materials/rbc.pdf)
 
 <br>
 
