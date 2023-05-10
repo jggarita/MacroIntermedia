@@ -104,15 +104,33 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 ### Modelo neoclásico: efecto de choques de oferta y demanda
 
-* Capítulos 15, 18 y 19 GLS
+* Capítulos 18 y 19 GLS
 * [Práctica 7](materials/PS7.pdf) 
 * [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo.
+
+### Eficiencia del equilibrio
+
+* Capítulos 15 GLS
+* [Notas](materials/rbc.pdf)
 
 
 ### Implicaciones de política y críticas al modelo neoclásico
 
 * Capítulos 22 GLS
-* [Notas](materials/rbc.pdf)
+* Práctica 8
+
+### Modelo Neoclásico con economía abierta
+
+* Capítulos 23 GLS
+* Notas
+* Práctica 
+
+
+## Segundo Parcial
+
+* Fecha: Sábado 3 de junio
+* Práctica
+* II Parcial 2023 
 
 <br>
 
@@ -150,17 +168,6 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 * Notas
 * Práctica 
 
-<br>
-
-## Tesis 5: Modelos de economía abierta
-
-<br>
-
-### Modelo Neoclásico con economía abierta
-
-* Capítulos 23 GLS
-* Notas
-* Práctica 
 
 ### Modelo Neokeynesiano con economía abierta
 
