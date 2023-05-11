@@ -83,7 +83,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 * Fecha: 6 de mayo
 * [Práctica](materials/MT_practice.pdf) 
-* [I Parcial 2023](materials/MT1.pdf) 
+* [I Parcial 2023](materials/MT1.pdf). Soluciones.
 * Subir soluciones [acá](https://www.dropbox.com/request/BcUDBNYbS9ADe4Vel17p)
 
 ### Economía de producción con gobierno
@@ -119,7 +119,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Implicaciones de política y críticas al modelo neoclásico
 
 * Capítulos 22 GLS
-* Práctica 8
+* [Notas](materials/rbc.pdf) 
 
 ### Modelo Neoclásico con economía abierta
 
