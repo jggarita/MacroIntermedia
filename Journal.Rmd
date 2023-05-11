@@ -112,7 +112,8 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Eficiencia del equilibrio
 
 * Capítulos 15 GLS
-* [Notas](materials/rbc.pdf)
+* [Práctica 8](materials/PS8.pdf) 
+
 
 
 ### Implicaciones de política y críticas al modelo neoclásico
