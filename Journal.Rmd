@@ -124,8 +124,8 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Modelo Neoclásico con economía abierta
 
 * Capítulos 23 GLS
-* Notas
-* Práctica 
+* [Práctica 8](materials/PS9.pdf) 
+
 
 
 ## Segundo Parcial
