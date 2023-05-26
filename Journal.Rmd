@@ -84,7 +84,6 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 * Fecha: 6 de mayo
 * [Práctica](materials/MT_practice.pdf) 
 * [I Parcial 2023](materials/MT1.pdf). Soluciones.
-* Subir soluciones [acá](https://www.dropbox.com/request/BcUDBNYbS9ADe4Vel17p)
 
 ### Economía de producción con gobierno
 
@@ -107,7 +106,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 * Capítulos 18 y 19 GLS
 * [Práctica 7](materials/PS7.pdf) 
-* [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo.
+* [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo. Subir soluciones [acá](https://www.dropbox.com/request/t2E9GWECAsRt5Onisugs)
 
 ### Eficiencia del equilibrio
 
