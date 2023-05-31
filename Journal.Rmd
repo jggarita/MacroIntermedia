@@ -157,6 +157,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Dinámica de transición entre el corto y mediano plazo
 
 * Capítulos 27 GLS
+* [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf) 
 * [Práctica 11](materials/PS11.pdf) 
 
 ### Política monetaria bajo el modelo Neokeynesiano
