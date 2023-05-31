@@ -123,7 +123,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Modelo Neoclásico con economía abierta
 
 * Capítulos 23 GLS
-* [Práctica 8](materials/PS9.pdf) 
+* [Práctica 9](materials/PS9.pdf) 
 
 
 
@@ -142,38 +142,32 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Bloque de demanda Neokeynesiano
 
 * Capítulos 24 GLS
-* Notas
-* Práctica 
 
 ### Bloque de oferta neokeynesiano
 
 * Capítulos 25 GLS
-* Notas
-* Práctica 
+
 
 ### Efecto de choques bajo el modelo Neokeynesiano
 
 * Capítulos 26 GLS
-* Notas
-* Práctica 
+* [Práctica 10](materials/PS10.pdf) 
+ 
 
 ### Dinámica de transición entre el corto y mediano plazo
 
 * Capítulos 27 GLS
-* Notas
-* Práctica 
+* [Práctica 11](materials/PS11.pdf) 
 
 ### Política monetaria bajo el modelo Neokeynesiano
 
 * Capítulos 28 GLS
-* Notas
 * Práctica 
 
 
 ### Modelo Neokeynesiano con economía abierta
 
 * Capítulos 29 GLS
-* Notas
 * Práctica 
 
 
