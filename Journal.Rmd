@@ -131,7 +131,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 * Fecha: Sábado 3 de junio
 * [Práctica](materials/MT2_practice.pdf) V2
-* II Parcial 2023 
+* [II Parcial 2023](materials/SegundoParcialMacro2.pdf) 
 
 <br>
 
@@ -165,7 +165,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 * Capítulos 28 GLS
 * Práctica
 * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf)
-
+* Nakamura, E., & Steinsson, J. (2013). Price rigidity: Microeconomic Evidence and Macroeconomic Implications. Annu. Rev. Econ., 5(1), 133-163. [Descargar](materials/Readings/price_rigidity.pdf)
 
 ### Modelo Neokeynesiano con economía abierta
 
