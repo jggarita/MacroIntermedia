@@ -131,7 +131,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 * Fecha: Sábado 3 de junio
 * [Práctica](materials/MT2_practice.pdf) V2
-* [II Parcial 2023](materials/SegundoParcialMacro2.pdf) 
+* [II Parcial 2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf)
 
 <br>
 
