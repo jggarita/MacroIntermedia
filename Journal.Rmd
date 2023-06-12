@@ -163,7 +163,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Política monetaria bajo el modelo Neokeynesiano
 
 * Capítulos 28 GLS
-* Práctica
+* [Práctica 12](materials/PS12.pdf) 
 * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf)
 * Nakamura, E., & Steinsson, J. (2013). Price rigidity: Microeconomic Evidence and Macroeconomic Implications. Annu. Rev. Econ., 5(1), 133-163. [Descargar](materials/Readings/price_rigidity.pdf)
 
