@@ -171,7 +171,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 ### Límite inferior cero (Zero Lower Bound)
 
 * Capítulos 29 GLS
-* Práctica 
+* [Práctica 13](materials/PS13.pdf) 
 
 
 
