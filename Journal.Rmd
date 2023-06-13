@@ -150,28 +150,31 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 ### Efecto de choques bajo el modelo Neokeynesiano
 
-* Capítulos 26 GLS
+* Capítulo 26 GLS
 * [Práctica 10](materials/PS10.pdf) 
  
 
 ### Dinámica de transición entre el corto y mediano plazo
 
-* Capítulos 27 GLS
+* Capítulo 27 GLS
 * [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf) 
 * [Práctica 11](materials/PS11.pdf) 
 
 ### Política monetaria bajo el modelo Neokeynesiano
 
-* Capítulos 28 GLS
+* Capítulo 28 GLS
 * [Práctica 12](materials/PS12.pdf) 
 * [Notas reglas de política](materials/taylor_notes.pdf) 
 * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf)
 * Nakamura, E., & Steinsson, J. (2013). Price rigidity: Microeconomic Evidence and Macroeconomic Implications. Annu. Rev. Econ., 5(1), 133-163. [Descargar](materials/Readings/price_rigidity.pdf)
 
-### Modelo Neokeynesiano con economía abierta
+### Límite inferior cero (Zero Lower Bound)
 
 * Capítulos 29 GLS
 * Práctica 
 
 
 
+### Tercer Parcial
+
+* Práctica 
