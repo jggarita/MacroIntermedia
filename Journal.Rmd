@@ -172,7 +172,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 * Capítulos 29 GLS
 * [Práctica 13](materials/PS13.pdf) 
-* [Crisis Financieras](materials/CrisisFinancierasv1.pdf) (V1) (Caps 31 y 37 GLS)
+* [Crisis Financieras](materials/CrisisFinancieras.pdf)  (Caps 31 y 37 GLS)
 
 
 
