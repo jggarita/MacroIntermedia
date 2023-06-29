@@ -178,4 +178,4 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 ### Tercer Parcial
 
-* Práctica 
+* [Práctica](materials/MT3_practice.pdf) v1 
