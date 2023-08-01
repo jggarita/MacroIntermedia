@@ -6,10 +6,8 @@ output: html_document
 
 ### Referencias bibliográficas
 
-* [*International Macroeconomics: A Modern Approach*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) de Stephanie Schmitt-Grohé, Martín Uribe y Michael Woodford.
-* [*Open Economy Macroeconomics*](https://press.princeton.edu/books/hardcover/9780691158778/open-economy-macroeconomics) de Stephanie Schmitt-Grohé y Martín Uribe.
-* [*Foundations of International Macroeconomics*](https://mitpress.mit.edu/books/foundations-international-macroeconomics#:~:text=Foundations%20of%20International%20Macroeconomics%20is,open%20economy%20macroeconomics%20and%20finance.) de Maurice Obstfeld y Kenneth Rogoff.
-* [*Intermediate Macroeconomics*](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) de Julio Garín, Robert Lester y Eric Sims 
+* [*Intermediate Macroeconomics*](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) de Julio Garín, Robert Lester y Eric Sims [GLS]
+* [*A Course in Modern Macroeconomics*](https://sites.google.com/view/pkurlat/a-course-in-modern-macroeconomics) de Pablo Kurlat [K]
 <br>
 
 ### Datos
