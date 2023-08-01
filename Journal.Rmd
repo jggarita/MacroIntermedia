@@ -14,8 +14,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-Acá puede encontrar los materiales del curso. Las clases, presentaciones, tareas y otros fueron basadas en el libro [*Intermediate Macroeconomics*](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) de Julio Garín, Robert Lester y Eric Sims.
-
+Acá puede encontrar los materiales del curso. 
 <br>
 
 # Programa (Syllabus)
