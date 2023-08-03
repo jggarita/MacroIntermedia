@@ -134,24 +134,15 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 <!-- * [Práctica](materials/MT2_practice.pdf) V2 -->
 <!-- * [II Parcial 2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) -->
 
-<br>
 
-## Tesis 4: Dinámica de corto plazo
+### Modelo Neokeynesiano 
 
-<br>
-
-### Bloque de demanda Neokeynesiano
-
-* Capítulos 24 [GLS]
-
-### Bloque de oferta neokeynesiano
-
-* Capítulos 25 [GLS]
+* Capítulos 24 y 25 [GLS], Capítulo 14 [K]
 
 
 ### Efecto de choques bajo el modelo Neokeynesiano
 
-* Capítulo 26 [GLS]
+* Capítulo 26 [GLS], Capítulo 14 [K]
 <!-- * [Práctica 10](materials/PS10.pdf)  -->
  
 
@@ -161,9 +152,20 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 <!-- * [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf)  -->
 <!-- * [Práctica 11](materials/PS11.pdf)  -->
 
+### Modelo macroeconómico con economía abierta
+
+* Capítulo 23 y 30 [GLS]
+
+<br>
+
+## Tesis 4: Política monetaria y fiscal
+
+<br>
+
+
 ### Política monetaria bajo el modelo Neokeynesiano
 
-* Capítulo 28 [GLS]
+* Capítulo 28 [GLS], Capítulo 15 [K]
 <!-- * [Práctica 12](materials/PS12.pdf)  -->
 <!-- * [Notas reglas de política](materials/taylor_notes.pdf)  -->
 <!-- * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf) -->
