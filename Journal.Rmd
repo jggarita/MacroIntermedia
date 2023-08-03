@@ -30,21 +30,21 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 ### Repaso matemático
 
-* Apéndice A GLS
+* Apéndice A [GLS]
 * [Práctica 0](materials/PS0.pdf) 
 
 
 ### Decisiones óptimas de consumo y ahorro en un marco de dos periodos
 
-* Capítulo 9 GLS
+* Capítulo 9 [GLS], Capítulo 6 [K]
 * [Notas](materials/Modelo_consumo_ahorro.pdf)
-* [Práctica 1](materials/PS1.pdf)
+<!-- * [Práctica 1](materials/PS1.pdf) -->
 
 ### Modelo de consumo y ahorro con múltiples periodos
 
-* Capítulo 10 GLS
+* Capítulo 10 [GLS], Capítulo 6 [K]
 * [Notas](materials/Modelo_intertemporal_consumo.pdf)
-* [Práctica 2](materials/PS2.pdf)
+<!-- * [Práctica 2](materials/PS2.pdf) -->
 
 <br>
 
@@ -52,85 +52,87 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 <br>
 
-### Hechos estilizados del ciclo económico
+### Decisiones de trabajo y ocio
 
-* Capítulo 20.1 GLS
-* [Notas](materials/ciclo_economico_he.pdf)
+* Capítulo 12.2 [GLS], Capítulo 7 [K]
+<!-- * [Notas](materials/Modelo_ocio.pdf) -->
+<!-- * [Práctica 4](materials/PS4.pdf)  -->
+<!-- * [Adicionales](materials/LaborSupply.pdf)  -->
+
 
 ### Decisiones de producción de la empresa
 
-* Capítulo 12.1 GLS
-* [Notas](materials/Modelo_produccion.pdf)
-* [Práctica 3](materials/PS3.pdf) 
-* [Tarea 1](materials/Tarea1.pdf). 
+* Capítulo 12.1 [GLS], Capítulo 8 [K]
+<!-- * [Notas](materials/Modelo_produccion.pdf) -->
+<!-- * [Práctica 3](materials/PS3.pdf)  -->
+<!-- * [Tarea 1](materials/Tarea1.pdf).  -->
 
-### Decisiones de oferta laboral
-
-* Capítulo 12.2 GLS
-* [Notas](materials/Modelo_ocio.pdf)
-* [Práctica 4](materials/PS4.pdf) 
-* [Adicionales](materials/LaborSupply.pdf) 
 
 ### Equilibrio competitivo 
 
-* Capítulos 12.3 y 12.4 GLS
-* [Notas](materials/Modelo_equilibrio.pdf)
-* [Práctica 5](materials/PS5.pdf) 
+* Capítulos 12.3 y 12.4 [GLS], Capítulo 9 [K]
+<!-- * [Notas](materials/Modelo_equilibrio.pdf) -->
+<!-- * [Práctica 5](materials/PS5.pdf)  -->
 
-
-## Primer Parcial
-
-* Fecha: 6 de mayo
-* [Práctica](materials/MT_practice.pdf) 
-* [I Parcial 2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf)
 
 ### Economía de producción con gobierno
 
-* Capítulos 13 GLS
-* [Notas](materials/Politica_Fiscal.pdf)
-* [Práctica 6](materials/PS6.pdf) 
+* Capítulos 13 [GLS]
+<!-- * [Notas](materials/Politica_Fiscal.pdf) -->
+<!-- * [Práctica 6](materials/PS6.pdf) -->
 
 ### Economía de producción con dinero
 
-* Capítulos 14, 21 y 32 GLS
-* Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf)
+* Capítulos 14, 21 y 32 [GLS], Capítulo 10 y 11 [K]
+<!-- * Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf) -->
+
+<!-- ## Primer Parcial -->
+
+<!-- * Fecha: 12 de octubre -->
+<!-- * [Práctica](materials/MT_practice.pdf) -->
+<!-- * [I Parcial 2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) -->
+
 
 <br>
 
-## Tesis 3: Dinámica de mediano plazo
+## Tesis 3: El ciclo económico 
 
 <br>
 
-### Modelo neoclásico: efecto de choques de oferta y demanda
+### Hechos estilizados del ciclo económico
 
-* Capítulos 18 y 19 GLS
-* [Práctica 7](materials/PS7.pdf) 
-* [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo. Subir soluciones [acá](https://www.dropbox.com/request/t2E9GWECAsRt5Onisugs)
+* Capítulo 20.1 [GLS]
+<!-- * [Notas](materials/ciclo_economico_he.pdf) -->
+
+### Modelo de Ciclo Económico Real de dos periodos (RBC)
+
+* Capítulos 18 y 19 [GLS], Capítulo 12 [K]
+<!-- * [Práctica 7](materials/PS7.pdf)  -->
+<!-- * [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo. Subir soluciones [acá](https://www.dropbox.com/request/t2E9GWECAsRt5Onisugs) -->
 
 ### Eficiencia del equilibrio
 
-* Capítulos 15 GLS
-* [Práctica 8](materials/PS8.pdf) 
-
+* Capítulos 15 [GLS]
+<!-- * [Práctica 8](materials/PS8.pdf)  -->
 
 
 ### Implicaciones de política y críticas al modelo neoclásico
 
-* Capítulos 22 GLS
-* [Notas](materials/rbc.pdf) 
+* Capítulos 22 [GLS]
+<!-- * [Notas](materials/rbc.pdf)  -->
 
-### Modelo Neoclásico con economía abierta
+<!-- ### Modelo Neoclásico con economía abierta -->
 
-* Capítulos 23 GLS
-* [Práctica 9](materials/PS9.pdf) 
+<!-- * Capítulos 23 [GLS] -->
+<!-- * [Práctica 9](materials/PS9.pdf)  -->
 
 
 
-## Segundo Parcial
+<!-- ## Segundo Parcial -->
 
-* Fecha: Sábado 3 de junio
-* [Práctica](materials/MT2_practice.pdf) V2
-* [II Parcial 2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf)
+<!-- * Fecha: Sábado 3 de junio -->
+<!-- * [Práctica](materials/MT2_practice.pdf) V2 -->
+<!-- * [II Parcial 2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) -->
 
 <br>
 
@@ -140,41 +142,41 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 ### Bloque de demanda Neokeynesiano
 
-* Capítulos 24 GLS
+* Capítulos 24 [GLS]
 
 ### Bloque de oferta neokeynesiano
 
-* Capítulos 25 GLS
+* Capítulos 25 [GLS]
 
 
 ### Efecto de choques bajo el modelo Neokeynesiano
 
-* Capítulo 26 GLS
-* [Práctica 10](materials/PS10.pdf) 
+* Capítulo 26 [GLS]
+<!-- * [Práctica 10](materials/PS10.pdf)  -->
  
 
 ### Dinámica de transición entre el corto y mediano plazo
 
-* Capítulo 27 GLS
-* [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf) 
-* [Práctica 11](materials/PS11.pdf) 
+* Capítulo 27 [GLS]
+<!-- * [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf)  -->
+<!-- * [Práctica 11](materials/PS11.pdf)  -->
 
 ### Política monetaria bajo el modelo Neokeynesiano
 
-* Capítulo 28 GLS
-* [Práctica 12](materials/PS12.pdf) 
-* [Notas reglas de política](materials/taylor_notes.pdf) 
-* Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf)
-* Nakamura, E., & Steinsson, J. (2013). Price rigidity: Microeconomic Evidence and Macroeconomic Implications. Annu. Rev. Econ., 5(1), 133-163. [Descargar](materials/Readings/price_rigidity.pdf)
+* Capítulo 28 [GLS]
+<!-- * [Práctica 12](materials/PS12.pdf)  -->
+<!-- * [Notas reglas de política](materials/taylor_notes.pdf)  -->
+<!-- * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf) -->
+<!-- * Nakamura, E., & Steinsson, J. (2013). Price rigidity: Microeconomic Evidence and Macroeconomic Implications. Annu. Rev. Econ., 5(1), 133-163. [Descargar](materials/Readings/price_rigidity.pdf) -->
 
 ### Límite inferior cero (Zero Lower Bound)
 
-* Capítulos 29 GLS
-* [Práctica 13](materials/PS13.pdf) 
-* [Crisis Financieras](materials/CrisisFinancieras.pdf)  (Caps 31 y 37 GLS)
+* Capítulos 29 [GLS]
+<!-- * [Práctica 13](materials/PS13.pdf)  -->
+<!-- * [Crisis Financieras](materials/CrisisFinancieras.pdf)  (Caps 31 y 37 [GLS]) -->
 
 
 
-### Tercer Parcial
+<!-- ### Tercer Parcial -->
 
-* [Práctica](materials/MT3_practice.pdf) v1 
+<!-- * [Práctica](materials/MT3_practice.pdf) v1  -->
