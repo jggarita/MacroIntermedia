@@ -38,7 +38,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201.pd
 
 * Capítulo 9 [GLS], Capítulo 6 [K]
 * [Notas](materials/Modelo_consumo_ahorro.pdf)
-<!-- * [Práctica 1](materials/PS1.pdf) -->
+* [Práctica 1](materials/PS1.pdf)
 
 ### Modelo de consumo y ahorro con múltiples periodos
 
