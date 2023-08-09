@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-Acá puede encontrar los materiales del curso. 
+Acá puede encontrar los materiales del curso[.](materials/Kurlat Course in Modern Macroeconomics.pdf) 
 <br>
 
 # Programa (Syllabus)
