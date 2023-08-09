@@ -6,7 +6,7 @@ output: html_document
 
 ### Referencias bibliográficas
 
-* [*Intermediate Macroeconomics*](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) de Julio Garín, Robert Lester y Eric Sims [GLS]
+* [*Intermediate Macroeconomics*](https://juliogarin.com/files/textbook/GLS_Intermediate_Macro.pdf) de Julio Garín, Robert Lester y Eric Sims [GLS]
 * [*A Course in Modern Macroeconomics*](https://sites.google.com/view/pkurlat/a-course-in-modern-macroeconomics) de Pablo Kurlat [K]
 <br>
 
