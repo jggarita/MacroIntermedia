@@ -44,7 +44,8 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 
 * Capítulo 10 [GLS], Capítulo 6 [K]
 * [Notas](materials/Modelo_intertemporal_consumo.pdf)
-<!-- * [Práctica 2](materials/PS2.pdf) -->
+* [Práctica 2](materials/PS2.pdf)
+* [Notas adicionales](materials/ConsumptionSavings.pdf)
 
 <br>
 
