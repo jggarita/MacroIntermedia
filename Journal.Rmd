@@ -52,6 +52,8 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ## Tesis 2: Equilibrio competitivo con producción, gobierno y dinero
 
 <br>
+### Un modelo macroeconómico de equilibrio general sencillo
+
 
 ### Decisiones de trabajo y ocio
 
@@ -159,12 +161,12 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 
 <br>
 
-## Tesis 4: Política monetaria y fiscal
+## Tesis 4: Políticas de estabilización macroeconómica
 
 <br>
 
 
-### Política monetaria bajo el modelo Neokeynesiano
+### Política monetaria y fiscal bajo el modelo Neokeynesiano
 
 * Capítulo 28 [GLS], Capítulo 15 [K]
 <!-- * [Práctica 12](materials/PS12.pdf)  -->
