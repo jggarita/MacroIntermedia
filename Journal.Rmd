@@ -55,7 +55,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 <br>
 
 ### Un modelo macroeconómico de equilibrio general sencillo
-* Notas
+* [Notas](materials/static_ge.pdf)
 * [Práctica 3](materials/PS3_2.pdf) 
 
 ### Decisiones de trabajo y ocio
