@@ -63,7 +63,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 
 * Capítulo 12.2 [GLS], Capítulo 7 [K]
 * [Notas](materials/Modelo_ocio.pdf)
-<!-- * [Práctica 4](materials/PS4.pdf)  -->
+* [Práctica 4](materials/PS4.pdf)  
 * [Adicionales](materials/LaborSupply.pdf)
 
 
