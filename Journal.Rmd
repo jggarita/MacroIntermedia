@@ -46,7 +46,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 * [Notas](materials/Modelo_intertemporal_consumo.pdf)
 * [Práctica 2](materials/PS2.pdf)
 * [Notas adicionales](materials/ConsumptionSavings.pdf)
-* [Tarea 1](materials/Tarea1_2.pdf).  (Fecha de entrega: 14 de septiembre)
+* [Tarea 1](materials/Tarea1_2.pdf).  (Fecha de entrega: 14 de septiembre) [Subir](https://www.dropbox.com/request/BdXuATo47U3QmDWA4UB4)
 
 <br>
 
@@ -70,9 +70,8 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Decisiones de producción de la empresa
 
 * Capítulo 12.1 [GLS], Capítulo 8 [K]
-<!-- * [Notas](materials/Modelo_produccion.pdf) -->
-<!-- * [Práctica 3](materials/PS3.pdf)  -->
-<!-- * [Tarea 1](materials/Tarea1.pdf).  -->
+* [Notas](materials/Modelo_produccion.pdf) 
+* [Práctica 5](materials/PS3.pdf)
 
 
 ### Equilibrio competitivo 
