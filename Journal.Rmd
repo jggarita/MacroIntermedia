@@ -73,6 +73,12 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 * [Notas](materials/Modelo_produccion.pdf) 
 * [Práctica 5](materials/PS3.pdf)
 
+### Equilibrio competitivo 
+
+* Capítulos 12.3 y 12.4 [GLS], Capítulo 9 [K]
+<!-- * [Notas](materials/Modelo_equilibrio.pdf) -->
+<!-- * [Práctica 5](materials/PS5.pdf)  -->
+
 
 ### Economía de producción con gobierno
 
@@ -85,17 +91,12 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 * Capítulos 14, 21 y 32 [GLS], Capítulo 10 y 11 [K]
 <!-- * Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf) -->
 
-### Equilibrio competitivo 
 
-* Capítulos 12.3 y 12.4 [GLS], Capítulo 9 [K]
-<!-- * [Notas](materials/Modelo_equilibrio.pdf) -->
-<!-- * [Práctica 5](materials/PS5.pdf)  -->
+## Primer Parcial
 
-<!-- ## Primer Parcial -->
-
-<!-- * Fecha: 12 de octubre -->
-<!-- * [Práctica](materials/MT_practice.pdf) -->
-<!-- * [I Parcial 2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) -->
+* Fecha: 12 de octubre 
+* [Práctica](materials/MT_practice.pdf) 
+* [I Parcial 2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
 
 
 <br>
