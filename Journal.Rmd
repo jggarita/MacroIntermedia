@@ -77,19 +77,19 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 
 * Capítulos 12.3 y 12.4 [GLS], Capítulo 9 [K]
 * [Notas](materials/Modelo_equilibrio.pdf) 
-<!-- * [Práctica 5](materials/PS5.pdf)  -->
+* [Práctica 6](materials/PS6.pdf)  
 
 
 ### Economía de producción con gobierno
 
 * Capítulos 13 [GLS]
 * [Notas](materials/Politica_Fiscal.pdf)
-* [Práctica 6](materials/PS6.pdf)
+* [Práctica 7](materials/PSgobierno.pdf)  
 
 ### Economía de producción con dinero
 
 * Capítulos 14, 21 y 32 [GLS], Capítulo 10 y 11 [K]
-<!-- * Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf) -->
+<!--* Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf) -->
 
 
 ## Primer Parcial
