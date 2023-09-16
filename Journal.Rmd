@@ -76,7 +76,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Equilibrio competitivo 
 
 * Capítulos 12.3 y 12.4 [GLS], Capítulo 9 [K]
-<!-- * [Notas](materials/Modelo_equilibrio.pdf) -->
+* [Notas](materials/Modelo_equilibrio.pdf) 
 <!-- * [Práctica 5](materials/PS5.pdf)  -->
 
 
