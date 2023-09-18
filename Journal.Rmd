@@ -77,7 +77,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 
 * Capítulos 12.3 y 12.4 [GLS], Capítulo 9 [K]
 * [Notas](materials/Modelo_equilibrio.pdf) 
-* [Práctica 6](materials/PS6.pdf)  
+* [Práctica 6](materials/PS_GE.pdf)  
 
 
 ### Economía de producción con gobierno
