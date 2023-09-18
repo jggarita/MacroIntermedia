@@ -84,7 +84,15 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 
 * Capítulos 13 [GLS]
 * [Notas](materials/Politica_Fiscal.pdf)
-* [Práctica 7](materials/PSgobierno.pdf)  
+* [Práctica 7](materials/PSGobierno.pdf)  
+
+
+## Primer Parcial
+
+* Fecha: 12 de octubre 
+* [Práctica](materials/MT_practice.pdf) 
+* [I Parcial 2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
+
 
 ### Economía de producción con dinero
 
@@ -92,11 +100,6 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 <!--* Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf) -->
 
 
-## Primer Parcial
-
-* Fecha: 12 de octubre 
-<!-- * [Práctica](materials/MT_practice.pdf)  -->
-* [I Parcial 2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
 
 
 <br>
