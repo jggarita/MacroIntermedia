@@ -97,7 +97,8 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Economía de producción con dinero
 
 * Capítulos 14, 21 y 32 [GLS], Capítulo 10 y 11 [K]
-Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf)
+* Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](materials/MoneySupply.pdf)
+* [Tarea 2](materials/Tarea2_2.pdf) (Fecha de entrega: 5 de octubre) 
 
 
 
@@ -108,10 +109,6 @@ Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](mate
 
 <br>
 
-### Hechos estilizados del ciclo económico
-
-* Capítulo 20.1 [GLS]
-<!-- * [Notas](materials/ciclo_economico_he.pdf) -->
 
 ### Modelo de Ciclo Económico Real de dos periodos (RBC)
 
@@ -124,6 +121,10 @@ Notas: [Demanda Monetaria](materials/Modelo_dinero.pdf). [Oferta Monetaria](mate
 * Capítulos 15 [GLS]
 <!-- * [Práctica 8](materials/PS8.pdf)  -->
 
+### Hechos estilizados del ciclo económico
+
+* Capítulo 20.1 [GLS]
+<!-- * [Notas](materials/ciclo_economico_he.pdf) -->
 
 ### Implicaciones de política y críticas al modelo neoclásico
 
