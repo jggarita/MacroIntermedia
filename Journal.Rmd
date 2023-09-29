@@ -113,7 +113,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Modelo de Ciclo Económico Real de dos periodos (RBC)
 
 * Capítulos 18 y 19 [GLS], Capítulo 12 [K]
-* [Práctica 7](materials/PSRBC1.pdf)
+* [Práctica 8](materials/PSRBC1.pdf)
 <!-- * [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo. Subir soluciones [acá](https://www.dropbox.com/request/t2E9GWECAsRt5Onisugs) -->
 
 ### Eficiencia del equilibrio
