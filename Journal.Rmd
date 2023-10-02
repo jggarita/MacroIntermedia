@@ -124,7 +124,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Hechos estilizados del ciclo económico
 
 * Capítulo 20.1 [GLS]
-<!-- * [Notas](materials/ciclo_economico_he.pdf) -->
+* [Notas](materials/Ciclo_economico.pdf) 
 
 ### Implicaciones de política y críticas al modelo neoclásico
 
