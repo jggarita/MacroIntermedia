@@ -119,7 +119,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Eficiencia del equilibrio
 
 * Capítulos 15 [GLS]
-<!-- * [Práctica 8](materials/PS8.pdf)  -->
+* [Práctica 9](materials/PSSPP.pdf)
 
 ### Hechos estilizados del ciclo económico
 
@@ -129,7 +129,6 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Implicaciones de política y críticas al modelo neoclásico
 
 * Capítulos 22 [GLS]
-<!-- * [Notas](materials/rbc.pdf)  -->
 
 <!-- ### Modelo Neoclásico con economía abierta -->
 
