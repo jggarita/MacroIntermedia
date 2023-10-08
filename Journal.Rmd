@@ -129,6 +129,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Implicaciones de política y críticas al modelo neoclásico
 
 * Capítulos 22 [GLS]
+* [Práctica 9](materials/PS102.pdf)
 
 <!-- ### Modelo Neoclásico con economía abierta -->
 
