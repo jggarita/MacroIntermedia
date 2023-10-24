@@ -129,7 +129,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Implicaciones de política y críticas al modelo neoclásico
 
 * Capítulos 22 [GLS]
-* [Práctica 9](materials/PS102.pdf)
+* [Práctica 10](materials/PS102.pdf)
 
 <!-- ### Modelo Neoclásico con economía abierta -->
 
@@ -153,14 +153,12 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Efecto de choques bajo el modelo Neokeynesiano
 
 * Capítulo 26 [GLS], Capítulo 14 [K]
-<!-- * [Práctica 10](materials/PS10.pdf)  -->
  
 
 ### Dinámica de transición entre el corto y mediano plazo
 
 * Capítulo 27 [GLS]
-<!-- * [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf)  -->
-<!-- * [Práctica 11](materials/PS11.pdf)  -->
+* [Práctica 11](materials/PS112.pdf)
 
 ### Modelo macroeconómico con economía abierta
 
@@ -176,6 +174,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 ### Política monetaria y fiscal bajo el modelo Neokeynesiano
 
 * Capítulo 28 [GLS], Capítulo 15 [K]
+* [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf)  
 <!-- * [Práctica 12](materials/PS12.pdf)  -->
 <!-- * [Notas reglas de política](materials/taylor_notes.pdf)  -->
 <!-- * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf) -->
