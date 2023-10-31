@@ -138,11 +138,7 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 
 
 
-<!-- ## Segundo Parcial -->
 
-<!-- * Fecha: Sábado 3 de junio -->
-<!-- * [Práctica](materials/MT2_practice.pdf) V2 -->
-<!-- * [II Parcial 2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) -->
 
 
 ### Modelo Neokeynesiano 
@@ -164,6 +160,13 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 
 * Capítulo 23 y 30 [GLS]
 * Práctica 12: GLS Capítulo 24 (1, 2, 3 y 4) y capítulo 30 (1, 2, 3)
+
+
+## Segundo Parcial
+
+* Fecha: Sábado 11 de noviembre a las 8 am en CE 241
+* [Práctica](materials/MT2_practice.pdf) 
+* [II Parcial 2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
 
 <br>
 
