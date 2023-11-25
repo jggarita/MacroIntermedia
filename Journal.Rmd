@@ -185,17 +185,18 @@ La versión más reciente del programa del curso [acá.](materials/2023EC3201_II
 * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf) 
 * Nakamura, E., & Steinsson, J. (2013). Price rigidity: Microeconomic Evidence and Macroeconomic Implications. Annu. Rev. Econ., 5(1), 133-163. [Descargar](materials/Readings/price_rigidity.pdf) 
 
-### Crisis financieras
-* [Notas](materials/CrisisFinancieras.pdf)  
+ 
 
 ### Límite inferior cero (Zero Lower Bound)
 
 * Capítulos 29 [GLS]
-<!-- * [Práctica 13](materials/PS13.pdf)  -->
-<!-- * [Crisis Financieras](materials/CrisisFinancieras.pdf)  (Caps 31 y 37 [GLS]) -->
+* [Práctica 14](materials/PS14.pdf) 
 
 
+### Crisis financieras
+* Notas amplificación de choques 
+* [Notas](materials/CrisisFinancieras.pdf) (Caps 31 y 37 [GLS])
 
-<!-- ### Tercer Parcial -->
+## Tercer Parcial 
 
 <!-- * [Práctica](materials/MT3_practice.pdf) v1  -->
