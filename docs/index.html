@@ -13,7 +13,7 @@
 
 <title>Macroeconomía Internacional</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -305,10 +302,10 @@ AU</em></li>
 <div id="evaluación" class="section level3">
 <h3>Evaluación:</h3>
 <ol style="list-style-type: decimal">
-<li><p>Tareas y asignaciones: 10%</p></li>
-<li><p>Primer parcial: 30% (12 de octubre)</p></li>
-<li><p>Segundo parcial 30% (11 de noviembre)</p></li>
-<li><p>Tercer parcial 30% (7 de diciembre)</p></li>
+<li><p>Tareas y asignaciones: 25%</p></li>
+<li><p>Primer parcial: 25% (12 de octubre)</p></li>
+<li><p>Segundo parcial 25% (11 de noviembre)</p></li>
+<li><p>Tercer parcial 25% (7 de diciembre)</p></li>
 </ol>
 </div>
 <div id="nuestra-playlist" class="section level3">
@@ -319,9 +316,7 @@ href="https://open.spotify.com/playlist/6m3zuJzAyexBUcD6vQ1KB4?si=d2574d49b1f044
 <div id="avisos-importantes" class="section level3">
 <h3>Avisos importantes</h3>
 <ul>
-<li>Subir tarea 5 <a
-href="https://www.dropbox.com/request/Dzv8J2FrsfcYkfZJL0Ym">acá</a></li>
-<li>El tercer examen es el 7 de diciembre a las 6 pm en FM216</li>
+<li>La tarea 0 ha sido posteada.</li>
 </ul>
 </div>
 </div>
