@@ -31,7 +31,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 ### Repaso matemático
 
 * Apéndice A [GLS]
-* [Práctica 0](materials/PS0.pdf) 
+* [Práctica 0](materials/PS0_2024.pdf) 
 
 
 ### Decisiones óptimas de consumo y ahorro en un marco de dos periodos
