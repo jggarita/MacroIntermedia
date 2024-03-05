@@ -43,7 +43,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 ### Modelo de consumo y ahorro con múltiples periodos
 
 * Capítulo 10 [GLS], Capítulo 6 [K]
-* [Notas](materials/Modelo_intertemporal_consumo.pdf)
+* [Notas](materials/Modelo_intertemporal_consumodsa.pdf)
 * [Práctica 2](materials/PS2.pdf)
 * [Notas adicionales](materials/ConsumptionSavings.pdf)
 
