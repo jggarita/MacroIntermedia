@@ -52,6 +52,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 ### Avisos importantes
 
 * La tarea 0 ha sido posteada. 
+* Una nueva versión de las notas de consumo ha sido posteada.
 
 </div>
 <div class="col-sm-6">
