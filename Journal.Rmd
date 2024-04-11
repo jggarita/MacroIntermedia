@@ -60,6 +60,13 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 * [Notas](materials/static_ge.pdf)
 * [Práctica 3](materials/PS3_2.pdf) 
 
+## Primer Parcial
+
+* Fecha: 20 de abril 
+* [Práctica](materials/MT1_practica_i24.pdf) 
+* [I Parcial I-2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
+* [I Parcial II-2023](materials/MT12.pdf). [Soluciones](materials/MT12_sol.pdf) 
+
 ### Decisiones de trabajo y ocio
 
 * Capítulo 12.2 [GLS], Capítulo 7 [K]
@@ -88,12 +95,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 * [Práctica 7](materials/PSGobierno.pdf)  
 
 
-## Primer Parcial
 
-* Fecha: 12 de octubre 
-* [Práctica](materials/MT_practice.pdf) 
-* [I Parcial I-2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
-* [I Parcial II-2023](materials/MT12.pdf). [Soluciones](materials/MT12_sol.pdf) 
 
 ### Economía de producción con dinero
 
