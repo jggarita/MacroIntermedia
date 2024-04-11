@@ -45,7 +45,8 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 * Capítulo 10 [GLS], Capítulo 6 [K]
 * [Práctica 2](materials/PS2.pdf)
 * [Notas adicionales](materials/ConsumptionSavings.pdf)
-* [Tarea 1](materials/Tarea1_I24.pdf) (Entrega: 11 de abril) [Datos Stata](materials/pumd_cons_survey.dta) [Datos Excel](materials/pumd_cons_survey.xlsx)
+* [Tarea 1](materials/Tarea1_I24.pdf) (Entrega: 11 de abril) [Datos Stata](materials/pumd_cons_survey.dta) [Datos Excel](materials/pumd_cons_survey.xlsx) [Subir acá](https://www.dropbox.com/request/BdXuATo47U3QmDWA4UB4)
+
 
 
 <br>
