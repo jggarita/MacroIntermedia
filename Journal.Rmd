@@ -65,7 +65,9 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 * Fecha: 20 de abril 
 * [Práctica](materials/MT1_practica_i24.pdf) 
 * [I Parcial I-2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
-* [I Parcial II-2023](materials/MT12.pdf). [Soluciones](materials/MT12_sol.pdf) 
+* [I Parcial II-2023](materials/MT12.pdf). [Soluciones](materials/MT12_sol.pdf)
+* [I Parcial I-2024](materials/mt1_1_24.pdf).
+
 
 ### Decisiones de trabajo y ocio
 
