@@ -106,13 +106,6 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 
 
 
-## Segundo Parcial
-
-* Fecha: Sábado 11 de noviembre a las 8 am en CE 241
-* [Práctica](materials/MT2_practice.pdf) 
-* [II Parcial I-2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
-* [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
-
 
 <br>
 
@@ -146,6 +139,13 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 
 <!-- * Capítulos 23 [GLS] -->
 <!-- * [Práctica 9](materials/PS9.pdf)  -->
+
+## Segundo Parcial
+
+* Fecha: Jueves 30 de mayo a las 5:00 p.m.
+* [Práctica](materials/MT2_practice.pdf) 
+* [II Parcial I-2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
+* [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
 
 
 
