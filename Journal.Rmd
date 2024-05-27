@@ -155,7 +155,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 ### Modelo Neokeynesiano 
 
 * Capítulos 24 y 25 [GLS], Capítulo 14 [K]
-
+* [Notas sobre implementación política monetaria](materials/implementacion_mp.pdf).
 
 ### Efecto de choques bajo el modelo Neokeynesiano
 
