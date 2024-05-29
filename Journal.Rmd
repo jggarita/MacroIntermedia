@@ -182,7 +182,8 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 ### Política monetaria y fiscal bajo el modelo Neokeynesiano
 
 * Capítulo 28 [GLS], Capítulo 15 [K]
-* [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf)  
+* [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf)
+* [Tarea 3](materials/Tarea3_I24.pdf) (Entrega: 11 de abril) [Datos Stata](materials/policy_rates.dta) [Datos Excel](materials/policy_rates.xls) 
 * [Práctica 13](materials/PS132.pdf)
 * [Notas reglas de política](materials/taylor_notes.pdf)
 * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf) 
