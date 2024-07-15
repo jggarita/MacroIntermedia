@@ -207,4 +207,5 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 * [Práctica](materials/MT3_practice.pdf)
 * [III Parcial I-2023](materials/MT3.pdf) 
 * [III Parcial II-2023](materials/MT3_22023.pdf)
+* [III Parcial I-2024](materials/III_Macro2_I24.pdf) [Soluciones](materials/sol_mt3_I24.pdf)
 

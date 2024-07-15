@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notas Finales</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        input, button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Notas Finales</h1>
+    <p>Ingrese su Carné:</p>
+    <input type="text" id="carneInput" placeholder="Carné">
+    <button onclick="buscarCarne()">Buscar</button>
+    <table id="resultTable" style="display:none;">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Carné</th>
+                <th>I Parcial</th>
+                <th>II Parcial</th>
+                <th>III Parcial</th>
+                <th>Tarea1</th>
+                <th>Tarea2</th>
+                <th>Tarea3</th>
+                <th>Tarea4</th>
+                <th>Tarea5</th>
+                <th>Nota final</th>
+                <th>Redondeo</th>
+                <th>Condición</th>
+            </tr>
+        </thead>
+        <tbody id="resultBody">
+        </tbody>
+    </table>
+</div>
+
+<script>
+    const data = [{"Nombre": "MARIAEMMA.ALFARO@ucr.ac.cr", "Carne": "C20201", "I Parcial": 70.0, "II Parcial": 55.0, "III Parcial": 63.33, "Tarea1": 100, "Tarea2": 100, "Tarea3": 85, "Tarea4": 100, "Tarea5": 100, "Nota final": 71.33, "Redondeo": 70, "Condición": "Aprobado"}, {"Nombre": "MARIANO.ROJAS@ucr.ac.cr", "Carne": "C26774", "I Parcial": 90.0, "II Parcial": 80.0, "III Parcial": 90.0, "Tarea1": 100, "Tarea2": 100, "Tarea3": 85, "Tarea4": 100, "Tarea5": 100, "Nota final": 89.25, "Redondeo": 90, "Condición": "Aprobado"}, {"Nombre": "SANTIAGO.VILLALOBOS@ucr.ac.cr", "Carne": "C28450", "I Parcial": 90.0, "II Parcial": 80.0, "III Parcial": 71.67, "Tarea1": 100, "Tarea2": 100, "Tarea3": 85, "Tarea4": 100, "Tarea5": 100, "Nota final": 84.67, "Redondeo": 85, "Condición": "Aprobado"}, {"Nombre": "100454021@alumnos.uc3m.es", "Carne": "C4A185", "I Parcial": 76.67, "II Parcial": 75.0, "III Parcial": 40.0, "Tarea1": 100, "Tarea2": 85, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 71.67, "Redondeo": 70, "Condición": "Aprobado"}, {"Nombre": "JENNIFER.VALERINLOSTALO@ucr.ac.cr", "Carne": "B77852", "I Parcial": 48.33, "II Parcial": 55.0, "III Parcial": 51.67, "Tarea1": 100, "Tarea2": 85, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 62.5, "Redondeo": 65, "Condición": "Ampliación"}, {"Nombre": "JORGE.ARTAVIAARGUEDAS@ucr.ac.cr", "Carne": "C10736", "I Parcial": 70.0, "II Parcial": 37.5, "III Parcial": 55.0, "Tarea1": 100, "Tarea2": 85, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 64.38, "Redondeo": 65, "Condición": "Ampliación"}, {"Nombre": "JOSUE.JIMENEZVINDAS@ucr.ac.cr", "Carne": "C24121", "I Parcial": 83.33, "II Parcial": 77.5, "III Parcial": 61.67, "Tarea1": 100, "Tarea2": 100, "Tarea3": 85, "Tarea4": 100, "Tarea5": 100, "Nota final": 79.88, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "JULIO.BONILLAPORRAS@ucr.ac.cr", "Carne": "C11166", "I Parcial": 81.67, "II Parcial": 90.0, "III Parcial": 75.0, "Tarea1": 100, "Tarea2": 100, "Tarea3": 85, "Tarea4": 100, "Tarea5": 100, "Nota final": 85.92, "Redondeo": 85, "Condición": "Aprobado"}, {"Nombre": "LEANDRO.RODRIGUEZALFARO@ucr.ac.cr", "Carne": "C26521", "I Parcial": 81.67, "II Parcial": 82.5, "III Parcial": 65.0, "Tarea1": 100, "Tarea2": 100, "Tarea3": 85, "Tarea4": 100, "Tarea5": 100, "Nota final": 81.54, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "ALEJANDRO.QUESADA18@ucr.ac.cr", "Carne": "B86215", "I Parcial": 88.33, "II Parcial": 75.0, "III Parcial": 70.0, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 82.33, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "JAIRO.CALDERONRODRIGUEZ@ucr.ac.cr", "Carne": "B81411", "I Parcial": 85.0, "II Parcial": 82.5, "III Parcial": 93.33, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 89.21, "Redondeo": 90, "Condición": "Aprobado"}, {"Nombre": "ANGEL.PARAJELES@ucr.ac.cr", "Carne": "C15813", "I Parcial": 71.67, "II Parcial": 70.0, "III Parcial": 71.67, "Tarea1": 100, "Tarea2": 100, "Tarea3": 95, "Tarea4": 100, "Tarea5": 100, "Nota final": 78.08, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "ERICKA.CHAVARRIA@ucr.ac.cr", "Carne": "B92069", "I Parcial": 73.33, "II Parcial": 95.0, "III Parcial": 56.67, "Tarea1": 100, "Tarea2": 100, "Tarea3": 95, "Tarea4": 100, "Tarea5": 100, "Nota final": 81.0, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "FRANCINI.PORRAS@ucr.ac.cr", "Carne": "C06066", "I Parcial": 73.33, "II Parcial": 75.0, "III Parcial": 66.67, "Tarea1": 100, "Tarea2": 100, "Tarea3": 95, "Tarea4": 100, "Tarea5": 100, "Nota final": 78.5, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "DARYNA.VEGA@ucr.ac.cr", "Carne": "C28294", "I Parcial": 90.0, "II Parcial": 95.0, "III Parcial": 78.33, "Tarea1": 100, "Tarea2": 90, "Tarea3": 92, "Tarea4": 100, "Tarea5": 100, "Nota final": 89.93, "Redondeo": 90, "Condición": "Aprobado"}, {"Nombre": "JULIAN.CHINCHILLACARVAJAL@ucr.ac.cr", "Carne": "C22227", "I Parcial": 86.67, "II Parcial": 60.0, "III Parcial": 93.33, "Tarea1": 100, "Tarea2": 90, "Tarea3": 92, "Tarea4": 100, "Tarea5": 100, "Nota final": 84.1, "Redondeo": 85, "Condición": "Aprobado"}, {"Nombre": "SEBASTIAN.MURILLOROMERO@ucr.ac.cr", "Carne": "C25453", "I Parcial": 86.67, "II Parcial": 67.5, "III Parcial": 88.33, "Tarea1": 100, "Tarea2": 90, "Tarea3": 92, "Tarea4": 100, "Tarea5": 100, "Nota final": 84.72, "Redondeo": 85, "Condición": "Aprobado"}, {"Nombre": "FABIOLA.MONGE@ucr.ac.cr", "Carne": "C24975", "I Parcial": 80.0, "II Parcial": 82.5, "III Parcial": 85.0, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 85.88, "Redondeo": 85, "Condición": "Aprobado"}, {"Nombre": "NYKOLE.CORELLA@ucr.ac.cr", "Carne": "C22367", "I Parcial": 71.67, "II Parcial": 80.0, "III Parcial": 90.0, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 84.42, "Redondeo": 85, "Condición": "Aprobado"}, {"Nombre": "DIEGO.ROMEROGOMEZ@ucr.ac.cr", "Carne": "C26931", "I Parcial": 96.67, "II Parcial": 82.5, "III Parcial": 71.67, "Tarea1": 100, "Tarea2": 100, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 87.21, "Redondeo": 85, "Condición": "Aprobado"}, {"Nombre": "FIORELA.SOLANO@ucr.ac.cr", "Carne": "C27530", "I Parcial": 86.67, "II Parcial": 77.5, "III Parcial": 70.0, "Tarea1": 100, "Tarea2": 100, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 83.04, "Redondeo": 85, "Condición": "Aprobado"}, {"Nombre": "ISMAEL.ESPINOZA@ucr.ac.cr", "Carne": "C22773", "I Parcial": 77.67, "II Parcial": 75.0, "III Parcial": 73.33, "Tarea1": 100, "Tarea2": 100, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 81.0, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "ALLAN.GUZMANPEREZ@ucr.ac.cr", "Carne": "C13592", "I Parcial": 88.33, "II Parcial": 87.5, "III Parcial": 58.33, "Tarea1": 100, "Tarea2": 80, "Tarea3": 85, "Tarea4": 100, "Tarea5": 100, "Nota final": 81.79, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "JOSE.GARROARCE@ucr.ac.cr", "Carne": "B83237", "I Parcial": 71.67, "II Parcial": 75.0, "III Parcial": 81.67, "Tarea1": 100, "Tarea2": 80, "Tarea3": 85, "Tarea4": 100, "Tarea5": 100, "Nota final": 80.33, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "JOSECARLOS.GOMEZ@ucr.ac.cr", "Carne": "C03268", "I Parcial": 66.67, "II Parcial": 62.5, "III Parcial": 60.0, "Tarea1": 100, "Tarea2": 100, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 71.79, "Redondeo": 70, "Condición": "Aprobado"}, {"Nombre": "KEVIN.MARTINEZMARTINEZ@ucr.ac.cr", "Carne": "B94589", "I Parcial": 78.33, "II Parcial": 55.0, "III Parcial": 66.67, "Tarea1": 100, "Tarea2": 100, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 74.5, "Redondeo": 75, "Condición": "Aprobado"}, {"Nombre": "VALERIA.LEONMENDOZA@ucr.ac.cr", "Carne": "B84277", "I Parcial": 88.33, "II Parcial": 72.5, "III Parcial": 68.33, "Tarea1": 100, "Tarea2": 100, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 81.79, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "ALEJANDRO.ALARCON@ucr.ac.cr", "Carne": "C10163", "I Parcial": 81.67, "II Parcial": 75.0, "III Parcial": 63.33, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 90, "Nota final": 78.5, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "ALESSANDRO.SANTAMARIA@ucr.ac.cr", "Carne": "C27360", "I Parcial": 76.67, "II Parcial": 72.5, "III Parcial": 73.33, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 90, "Nota final": 79.12, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "PEDRO.GUEVARALEANDRO@ucr.ac.cr", "Carne": "C03565", "I Parcial": 80.0, "II Parcial": 57.5, "III Parcial": 93.33, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 90, "Nota final": 81.21, "Redondeo": 80, "Condición": "Aprobado"}, {"Nombre": "ISABEL.IGLESIAS@ucr.ac.cr", "Carne": "C03910", "I Parcial": 76.67, "II Parcial": 65.0, "III Parcial": 46.67, "Tarea1": 100, "Tarea2": 90, "Tarea3": 88, "Tarea4": 100, "Tarea5": 85, "Nota final": 70.23, "Redondeo": 70, "Condición": "Aprobado"}, {"Nombre": "MARIA.JIMENEZCORDERO@ucr.ac.cr", "Carne": "C03990", "I Parcial": 51.67, "II Parcial": 62.5, "III Parcial": 71.67, "Tarea1": 100, "Tarea2": 90, "Tarea3": 88, "Tarea4": 100, "Tarea5": 85, "Nota final": 69.61, "Redondeo": 70, "Condición": "Aprobado"}, {"Nombre": "MARIA.FIGUERESSOLANO@ucr.ac.cr", "Carne": "C12883", "I Parcial": 35.0, "II Parcial": 72.5, "III Parcial": 73.33, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 69.21, "Redondeo": 70, "Condición": "Aprobado"}, {"Nombre": "SOFIA.ALTAMURA@ucr.ac.cr", "Carne": "C10271", "I Parcial": 53.33, "II Parcial": 82.5, "III Parcial": 60.0, "Tarea1": 100, "Tarea2": 90, "Tarea3": 90, "Tarea4": 100, "Tarea5": 100, "Nota final": 72.96, "Redondeo": 75, "Condición": "Aprobado"}, {"Nombre": "EIDA.CORRALES@ucr.ac.cr", "Carne": "B82377", "I Parcial": 0.0, "II Parcial": 0.0, "III Parcial": 0.0, "Tarea1": 100, "Tarea2": 0, "Tarea3": 0, "Tarea4": 0, "Tarea5": 0, "Nota final": 5.0, "Redondeo": 5, "Condición": "Reprobado"}];
+
+    function buscarCarne() {
+        const carne = document.getElementById('carneInput').value.toUpperCase();
+        const result = data.filter(item => item.Carne.toUpperCase() === carne);
+        const resultTable = document.getElementById('resultTable');
+        const resultBody = document.getElementById('resultBody');
+        resultBody.innerHTML = '';
+
+        if (result.length > 0) {
+            result.forEach(item => {
+                const row = document.createElement('tr');
+                for (const key in item) {
+                    const cell = document.createElement('td');
+                    cell.textContent = item[key];
+                    row.appendChild(cell);
+                }
+                resultBody.appendChild(row);
+            });
+            resultTable.style.display = 'table';
+        } else {
+            resultTable.style.display = 'none';
+            alert('No se encontró el Carné ingresado.');
+        }
+    }
+</script>
+
+</body>
+</html>
