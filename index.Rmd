@@ -51,11 +51,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-<<<<<<< HEAD
 * Consulte notas finales 
-=======
-* El segundo parcial es **jueves 30 de mayo a las 5:00 p.m en AU212**.
->>>>>>> parent of a789a7d (updates)
 
 
 </div>
