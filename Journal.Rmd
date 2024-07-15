@@ -14,6 +14,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
+
 Acá puede encontrar los materiales del curso[.](materials/Kurlat Course in Modern Macroeconomics.pdf) 
 <br>
 
@@ -202,7 +203,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_I.
 * Notas [Fricciones Financieras y Amplificación](materials/financial_amplification.pdf)
 * Notas [Crisis Financieras](materials/CrisisFinancieras.pdf) (Caps 31 y 37 [GLS])
 
-## Tercer Parcial DDD
+## Tercer Parcial
 
 * [Práctica](materials/MT3_practice.pdf) 
 * [III Parcial I-2023](materials/MT3.pdf) 
