@@ -51,7 +51,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* Consulte notas finales acá.
+* Consulte notas finales [acá](materials/notas_I24.html)
 
 
 </div>
