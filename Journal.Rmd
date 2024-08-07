@@ -61,14 +61,6 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 * [Notas](materials/static_ge.pdf)
 * [Práctica 3](materials/PS3_2.pdf) 
 
-## Primer Parcial
-
-* Fecha: 20 de abril 
-* [Práctica](materials/MT1_practica_i24.pdf) 
-* [I Parcial I-2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
-* [I Parcial II-2023](materials/MT12.pdf). [Soluciones](materials/MT12_sol.pdf)
-* [I Parcial I-2024](materials/mt1_1_24.pdf). [Soluciones](materials/mt1_124_sol.pdf)
-
 
 ### Decisiones de trabajo y ocio
 
@@ -90,14 +82,19 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 * [Notas](materials/Modelo_equilibrio.pdf) 
 * [Práctica 6](materials/PS_GE.pdf)  
 
+## Primer Parcial
+
+* Fecha: 12 de setiembre
+* [Práctica](materials/MT1_practica_i24.pdf) 
+* [I Parcial I-2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
+* [I Parcial II-2023](materials/MT12.pdf). [Soluciones](materials/MT12_sol.pdf)
+* [I Parcial I-2024](materials/mt1_1_24.pdf). [Soluciones](materials/mt1_124_sol.pdf)
 
 ### Economía de producción con gobierno
 
 * Capítulos 13 [GLS]
 * [Notas](materials/Politica_Fiscal.pdf)
 * [Práctica 7](materials/PSGobierno.pdf)  
-
-
 
 
 ### Economía de producción con dinero
@@ -141,12 +138,6 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 <!-- * Capítulos 23 [GLS] -->
 <!-- * [Práctica 9](materials/PS9.pdf)  -->
 
-## Segundo Parcial
-
-* Fecha: Jueves 30 de mayo a las 5:00 p.m.
-* [Práctica](materials/MT2_practice.pdf) 
-* [II Parcial I-2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
-* [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
 
 
 
@@ -174,6 +165,14 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 * Práctica 12: GLS Capítulo 24 (1, 2, 3 y 4) y capítulo 30 (1, 2, 3)
 
 <br>
+
+## Segundo Parcial
+
+* Fecha: 17 de octubre.
+* [Práctica](materials/MT2_practice.pdf) 
+* [II Parcial I-2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
+* [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
+
 
 ## Tesis 4: Políticas de estabilización macroeconómica
 
