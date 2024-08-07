@@ -30,7 +30,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 * Correo del curso: MacroIntermediaUCR@gmail.com
 * Asistente: Alejandro Navarro 
 * **Hora de clase:** Lunes y jueves 18-19:50. *208 AU*
-* **Laboratorio:** Miércoles 8-9:50 *210 AU*
+* **Laboratorio:** Miércoles 8-9:50 *310 AU*
 * **Horas de consulta**: Martes 5-7pm (Cita previa)
 
 ### Evaluación:
@@ -51,7 +51,8 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* Consulte notas finales [acá](materials/notas_I24.html)
+* El programa del curso ha sido posteado.
+* La tarea 0 ha sido posteada. 
 
 
 </div>
