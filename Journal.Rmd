@@ -89,7 +89,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 * [I Parcial I-2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
 * [I Parcial II-2023](materials/MT12.pdf). [Soluciones](materials/MT12_sol.pdf)
 * [I Parcial I-2024](materials/mt1_1_24.pdf). [Soluciones](materials/mt1_124_sol.pdf)
-* [I Parcial II-2024](materials/mt1_2_24.pdf). [Soluciones](materials/mt1_2_24_sol.pdf)
+* [I Parcial II-2024](materials/MT1_2_24.pdf). [Soluciones](materials/MT1_2_24_sol.pdf)
 
 
 ### Economía de producción con gobierno
