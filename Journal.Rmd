@@ -118,7 +118,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 
 * Capítulos 18 y 19 [GLS], Capítulo 12 [K]
 * [Práctica 8](materials/PSRBC1.pdf)
-<!-- * [Tarea 3](materials/Tarea3.pdf). Fecha de entrega: 26 de mayo. Subir soluciones [acá](https://www.dropbox.com/request/t2E9GWECAsRt5Onisugs) -->
+* [Tarea 2](materials/Tarea2_224.pdf) (Entrega: 25 de octubre)
 
 ### Eficiencia del equilibrio
 
