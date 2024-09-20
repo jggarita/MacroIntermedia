@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Calificaciones</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        input[type="text"] {
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Consulta de Calificaciones</h1>
+    <form id="consultaForm">
+        <label for="carne">Introduzca su Carné:</label>
+        <input type="text" id="carne" name="carne" placeholder="Ej: B91880" required>
+        <input type="submit" value="Consultar">
+    </form>
+
+    <div class="result" id="result">
+        <!-- Aquí se mostrará el resultado -->
+    </div>
+</div>
+
+<script>
+// Datos de calificaciones extraídos de la hoja 'html'
+var data = {"B91880": 25.0, "B92532": 53.333333333333336, "C00126": 53.333333333333336, "C01008": 58.333333333333336, "C02702": 45.0, "C05698": 58.333333333333336, "C07703": 53.333333333333336, "C10177": 90.0, "C10736": 73.33333333333333, "C10930": 60.0, "C13659": 63.333333333333336, "C13788": 61.666666666666664, "C13927": 46.666666666666664, "C14523": 56.666666666666664, "C15782": 61.666666666666664, "C16112": 56.666666666666664, "C16183": 45.0, "C16419": 76.66666666666667, "C16735": 65.0, "C20467": 36.666666666666664, "C22021": 70.0, "C22409": 58.333333333333336, "C25100": 61.666666666666664, "C25680": 78.33333333333333, "C26052": 76.66666666666667, "C26086": 61.666666666666664, "C26627": 63.333333333333336, "C28084": 53.333333333333336, "C31805": 61.666666666666664, "C35706": 51.666666666666664, "C37733": 56.666666666666664, "C37880": 46.666666666666664};
+
+// Función para manejar la consulta
+document.getElementById("consultaForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+    
+    var carne = document.getElementById("carne").value.toUpperCase(); // Convert to uppercase
+    var resultDiv = document.getElementById("result");
+
+    if (data[carne]) {
+        resultDiv.innerHTML = "I Parcial: " + data[carne];
+    } else {
+        resultDiv.innerHTML = "Carné no encontrado.";
+    }
+});
+</script>
+
+</body>
+</html>
