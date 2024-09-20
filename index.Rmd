@@ -52,6 +52,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 ### Avisos importantes
 
 * Las soluciones al primer parcial han sido posteadas.
+* Consulte la nota del primer parcial [acá](materials/consulta_II24.html)
 * La tarea 2 ha sido posteada. 
 
 
