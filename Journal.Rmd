@@ -141,9 +141,12 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 <!-- * [Práctica 9](materials/PS9.pdf)  -->
 
 
+## Segundo Parcial
 
-
-
+* Fecha: 17 de octubre.
+* [Práctica](materials/MT2_practice.pdf) 
+* [II Parcial I-2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
+* [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
 
 
 ### Modelo Neokeynesiano 
@@ -168,12 +171,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 
 <br>
 
-## Segundo Parcial
 
-* Fecha: 17 de octubre.
-* [Práctica](materials/MT2_practice.pdf) 
-* [II Parcial I-2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
-* [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
 
 
 ## Tesis 4: Políticas de estabilización macroeconómica
