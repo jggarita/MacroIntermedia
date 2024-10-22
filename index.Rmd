@@ -51,10 +51,9 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* Las soluciones al primer parcial han sido posteadas.
-* Consulte la nota del primer parcial [acá](materials/consulta_II24.html)
-* La tarea 2 ha sido posteada. 
-
+* [Tarea 3](materials/Tarea3_I24.pdf) (Entrega: 15 de noviembre) [Datos Stata](materials/policy_rates.dta) [Datos Excel](materials/policy_rates.xls) 
+* La tarea 4 es el 7 de noviembre.
+* [Tarea 5](materials/data_tarea5.pdf) (Entrega: 29 de noviembre) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx) 
 
 </div>
 <div class="col-sm-6">
