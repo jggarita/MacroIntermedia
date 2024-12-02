@@ -51,10 +51,8 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* [Subir tarea 2](https://www.dropbox.com/request/9ibGmKQbM5cILeyIXI82)
-* [Tarea 3](materials/Tarea3_I24.pdf) (Entrega: 15 de noviembre) [Datos Stata](materials/policy_rates.dta) [Datos Excel](materials/policy_rates.xls). [Subir tarea](https://www.dropbox.com/request/uLg5jwtlD62HN7ZSOuHa) 
-* La tarea 4 es el 21 de noviembre.
-* [Tarea 5](materials/Tarea5Macro2.pdf) (Entrega: 29 de noviembre) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx) 
+* El tercer examen es el jueves 5 de diciembre a las 5 pm en CS 0606.
+* [Tarea 5](materials/Tarea5Macro2.pdf) (Entrega: 29 de noviembre) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx)  [Subir tarea](https://www.dropbox.com/request/uLg5jwtlD62HN7ZSOuHa) 
 
 </div>
 <div class="col-sm-6">
