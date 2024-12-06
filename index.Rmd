@@ -51,8 +51,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* El tercer examen es el jueves 5 de diciembre a las 5 pm en CS 0606.
-* [Tarea 5](materials/Tarea5Macro2.pdf) (Entrega: 29 de noviembre) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx)  [Subir tarea](https://www.dropbox.com/request/8KIIkL7lUN2wpzrmf0ZL) 
+* Consulte las calificaciones finales del curso  [acá](materials/Calificaciones_II_24.html) 
 
 </div>
 <div class="col-sm-6">
