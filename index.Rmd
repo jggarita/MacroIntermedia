@@ -37,21 +37,18 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 1. Tareas y asignaciones: 25%
 
-2. Primer parcial: 25% (12 de setiembre)
+2. Primer parcial: 25% (8 de mayo)
 
-3. Segundo parcial 25% (17 de octubre)
+3. Segundo parcial 25% (12 de junio)
 
-3. Tercer parcial 25% (5 de diciembre)
+3. Tercer parcial 25% (10 de julio)
 
 
-### Nuestra Playlist:
-
-[Spotify](https://open.spotify.com/playlist/6iUXUSTv312kdGoXyV3y7z?si=76a943fb8b8640f5&pt=25506793e7a01de5c5580dbf42db38d3)
 
 
 ### Avisos importantes
 
-* Consulte las calificaciones finales del curso  [acá](materials/Calificaciones_II_24.html) 
+* La tarea 0 ha sido posteada
 
 </div>
 <div class="col-sm-6">
