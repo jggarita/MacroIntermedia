@@ -13,28 +13,14 @@ output: html_document
 }
 
 /* Increase font size for headings and body text */
-body {
-  font-size: 18px; /* Adjust as needed */
-}
-
 h1 {
-  font-size: 32px; /* Adjust as needed */
+  font-size: 32px;
 }
-
 h2 {
-  font-size: 24px; /* Adjust as needed */
+  font-size: 24px;
 }
-
-h3 {
-  font-size: 22px; /* Adjust as needed */
-}
-
-h4 {
-  font-size: 36px; /* Adjust as needed */
-}
-
 p, li {
-  font-size: 16px; /* Adjust as needed */
+  font-size: 16px;
 }
 </style>
 
