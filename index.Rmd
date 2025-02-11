@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-  font-size: 24px; /* Adjust as needed */
+  font-size: 32px; /* Adjust as needed */
 }
 
 h2 {
