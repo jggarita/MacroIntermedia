@@ -46,7 +46,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 * Capítulo 10 [GLS], Capítulo 6 [K]
 * [Práctica 2](materials/PS2.pdf)
 * [Notas adicionales](materials/Consumo_adicionales_v2.pdf)
-* [Tarea 1](materials/Tarea1_I24.pdf) (Entrega: 6 de setiembre) [Datos Stata](materials/pumd_cons_survey.dta) [Datos Excel](materials/pumd_cons_survey.xlsx) [Subir](https://www.dropbox.com/request/BdXuATo47U3QmDWA4UB4)
+<!-- * [Tarea 1](materials/Tarea1_I24.pdf) (Entrega: 6 de setiembre) [Datos Stata](materials/pumd_cons_survey.dta) [Datos Excel](materials/pumd_cons_survey.xlsx) [Subir](https://www.dropbox.com/request/BdXuATo47U3QmDWA4UB4) -->
 
 
 
@@ -118,7 +118,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 
 * Capítulos 18 y 19 [GLS], Capítulo 12 [K]
 * [Práctica 8](materials/PSRBC1.pdf)
-* [Tarea 2](materials/Tarea2_224.pdf) (Entrega: 25 de octubre)
+<!-- * [Tarea 2](materials/Tarea2_224.pdf) (Entrega: 25 de octubre) -->
 
 ### Eficiencia del equilibrio
 
@@ -184,7 +184,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 
 * Capítulo 28 [GLS], Capítulo 15 [K]
 * [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf)
-* [Tarea 3](materials/Tarea3_I24.pdf) (Entrega: 15 de noviembre) [Datos Stata](materials/policy_rates.dta) [Datos Excel](materials/policy_rates.xls) 
+<!-- * [Tarea 3](materials/Tarea3_I24.pdf) (Entrega: 15 de noviembre) [Datos Stata](materials/policy_rates.dta) [Datos Excel](materials/policy_rates.xls)  -->
 * [Práctica 13](materials/PS132.pdf)
 * [Notas reglas de política](materials/taylor_notes.pdf)
 * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf) 
@@ -196,7 +196,7 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 
 * Capítulos 29 [GLS]
 * [Práctica 14](materials/PS14.pdf) 
-* [Tarea 5](materials/Tarea5Macro2.pdf) (Entrega: 29 de noviembre) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx) 
+<!-- * [Tarea 5](materials/Tarea5Macro2.pdf) (Entrega: 29 de noviembre) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx)  -->
 
 
 ### Crisis financieras
