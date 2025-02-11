@@ -49,7 +49,6 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 <!-- * [Tarea 1](materials/Tarea1_I24.pdf) (Entrega: 6 de setiembre) [Datos Stata](materials/pumd_cons_survey.dta) [Datos Excel](materials/pumd_cons_survey.xlsx) [Subir](https://www.dropbox.com/request/BdXuATo47U3QmDWA4UB4) -->
 
 
-
 <br>
 
 ## Tesis 2: Equilibrio competitivo con producción, gobierno y dinero
