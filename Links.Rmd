@@ -8,6 +8,7 @@ output: html_document
 
 * [*Intermediate Macroeconomics*](https://juliogarin.com/files/textbook/GLS_Intermediate_Macro.pdf) de Julio Garín, Robert Lester y Eric Sims [GLS]
 * [*A Course in Modern Macroeconomics*](https://sites.google.com/view/pkurlat/a-course-in-modern-macroeconomics) de Pablo Kurlat [K]
+* [Macroeconomics](https://wwnorton.com/books/9781324063612/) de Charles I. Jones. 6ta edición. [J]
 <br>
 
 ### Datos
