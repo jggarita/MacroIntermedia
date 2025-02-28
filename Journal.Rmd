@@ -51,7 +51,7 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_I.
 ### Repaso macroeconomía básica
 
 * Capítulos 9, 10, 11, 12 y 13 [J] 
-* [Notas](materials/Notas_repaso_macro1) Versión 1.0. 
+* [Notas](materials/Notas_repaso_macro1.pdf) Versión 1.0. 
 
 
 ### Decisiones óptimas de consumo y ahorro en un marco de dos periodos
