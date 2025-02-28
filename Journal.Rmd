@@ -34,7 +34,7 @@ Acá puede encontrar los materiales del curso[.](materials/Kurlat Course in Mode
 
 # Programa (Syllabus)
 
-La versión más reciente del programa del curso [acá.](materials/2024EC3201_II.pdf)
+La versión más reciente del programa del curso [acá.](materials/2025EC3201_I.pdf)
 
 <br>
 
@@ -47,6 +47,11 @@ La versión más reciente del programa del curso [acá.](materials/2024EC3201_II
 
 * Apéndice A [GLS]
 * [Práctica 0](materials/PS0_2024.pdf) 
+
+### Repaso macroeconomía básica
+
+* Capítulos 9, 10, 11, 12 y 13 [J] 
+* [Notas](materials/Notas_consumo.pdf) Versión 1.0. 
 
 
 ### Decisiones óptimas de consumo y ahorro en un marco de dos periodos
