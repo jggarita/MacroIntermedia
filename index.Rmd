@@ -58,7 +58,9 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* La tarea 0 ha sido posteada
+* La tarea 0 ha sido posteada. 
+* Las notas de repaso de macroeconomía 1 han sido posteadas, pero van a ser actualizadas constantemente. 
+
 
 </div>
 <div class="col-sm-6">
