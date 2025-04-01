@@ -57,7 +57,7 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_I.
 ### Decisiones óptimas de consumo y ahorro en un marco de dos periodos
 
 * Capítulo 9 [GLS], Capítulo 6 [K]
-* [Notas](materials/Notas_consumo.pdf) Versión 3.0.   
+* [Notas](materials/Notas_consumo.pdf) *Nueva versión!*   
 * [Práctica 1](materials/PS1.pdf)
 
 ### Modelo de consumo y ahorro con múltiples periodos
