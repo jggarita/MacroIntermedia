@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Consulta de Nota I Parcial</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; }
+    #result { margin-top: 1rem; font-size: 1.2rem; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Consulta de Nota I Parcial</h1>
+  <label for="carne">Carné:</label>
+  <input type="text" id="carne" placeholder="Ej. C12345">
+  <button onclick="buscar()">Buscar</button>
+  <div id="result"></div>
+
+  <script>
+    /* Mapeo Carné → Nota I Parcial */
+    const notas = {
+      "C00013": 58.33,
+      "C30398": 73.33,
+      "C30481": 81.67,
+      "C10481": 46.67,
+      "C20609": 95.00,
+      "C20563": 95.00,
+      "C12661": 40.00,
+      "C23639": 85.00,
+      "C02661": 91.67,
+      "C22572": 93.33,
+      "C33328": 98.33,
+      "C08082": 78.33,
+      "C23248": 78.33,
+      "C10397": 93.33,
+      "C22635": 73.33,
+      "C06602": 95.00,
+      "C04644": 78.33,
+      "C19612": 86.67,
+      "C04670": 88.33,
+      "C26335": 76.67,
+      "C06668": 70.00,
+      "C28345": 91.67,
+      "C05339": 86.67,
+      "C01326": 56.67,
+      "C23704": 76.67,
+      "C24586": 91.67,
+      "C22626": 86.67,
+      "C31354": 91.67,
+      "C18603": 78.33,
+      "C20605": 83.33,
+      "C33340": 86.67,
+      "C17399": 88.33,
+      "C19626": 85.00,
+      "C23670": 88.33,
+      "C23679": 93.33,
+      "C20307": 93.33,
+      "C19605": 98.33,
+      "C23637": 91.67,
+      "C33385": 100.00,
+      "C03649": 66.67,
+      "C23648": 70.00,
+      "C23659": 93.33,
+      "C24596": 96.67,
+      "C25628": 88.33,
+      "C06671": 88.33,
+      "C23656": 73.33,
+      "C06643": 93.33,
+      "C23689": 93.33,
+      "C23640": 93.33,
+      "C23693": 85.00
+    };
+
+    function buscar() {
+      const carne = document.getElementById('carne').value.trim().toUpperCase();
+      const nota = notas[carne];
+      const result = document.getElementById('result');
+      if (nota !== undefined) {
+        result.textContent = `Nota I Parcial: ${nota}`;
+      } else {
+        result.textContent = 'Carné no encontrado.';
+      }
+    }
+  </script>
+</body>
+</html>
