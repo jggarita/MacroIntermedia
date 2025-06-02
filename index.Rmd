@@ -65,7 +65,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 
 
-</div>
+</div>  
 <div class="col-sm-6">
 
 
