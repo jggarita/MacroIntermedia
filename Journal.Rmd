@@ -166,7 +166,7 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_I.
 ## Segundo Parcial
 
 * Fecha: (12 de junio)
-* [Práctica](materials/MT2_practice.pdf) 
+* [Práctica](materials/MT2_práctica.pdf) 
 * [II Parcial I-2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
 * [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
 * [II Parcial II-2024](materials/MT2-2-24.pdf). [Soluciones](materials/MT2-2-24-SOL.pdf)
