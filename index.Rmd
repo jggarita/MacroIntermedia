@@ -58,8 +58,8 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* [Tarea 3](materials/Tarea3.pdf) (Entrega: 20 de junio) [Datos Stata](materials/policy_rates.dta) [Datos Excel](materials/policy_rates.xls) 
-* [Tarea 5](materials/Tarea5.pdf) (Entrega: 4 de julio) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx)
+* [Tarea 3](materials/Tarea3.pdf) (Entrega: 12 de julio) [Datos Stata](materials/policy_rates.dta) [Datos Excel](materials/policy_rates.xls) 
+* [Tarea 5](materials/Tarea5.pdf) (Entrega: 12 de julio) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx)
 
 
 </div>  
