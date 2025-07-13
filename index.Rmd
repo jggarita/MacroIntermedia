@@ -58,8 +58,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* Subir Tarea 5 [acá](https://www.dropbox.com/request/8KIIkL7lUN2wpzrmf0ZL) 
-* [Tarea 5](materials/Tarea5.pdf) (Entrega: 12 de julio) [Datos Stata](materials/data_tarea5.dta) [Datos Excel](materials/data_tarea5.xlsx)
+* Consulte notas finales [acá](materials/NotasFinal_I25.html)
 
 
 </div>  
