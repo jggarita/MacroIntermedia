@@ -144,7 +144,7 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_II
 
 * Capítulo 20.1 [GLS]
 * [Notas filtros](materials/Notas_filtros.pdf). [Notas Ciclo Económico Real](materials/Notas_rbc.pdf) 
-* [Tarea 2](materials/Tarea2_25.pdf) (Entrega: 30 de mayo) 
+* [Tarea 2](materials/Tarea2_II25.pdf) (Entrega: 24 de octubre) 
 
 ### Implicaciones de política y críticas al modelo neoclásico
 
