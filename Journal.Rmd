@@ -130,6 +130,12 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_II
 
 <br>
 
+### Filtros de series de tiempo 
+
+* Capítulo 20.1 [GLS]
+* [Notas filtros](materials/filtros_II25.pdf). 
+* [Tarea 2](materials/Tarea2_II25.pdf) (Entrega: 24 de octubre) 
+
 
 ### Modelo de Ciclo Económico Real de dos periodos (RBC)
 
@@ -144,8 +150,7 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_II
 ### Hechos estilizados del ciclo económico
 
 * Capítulo 20.1 [GLS]
-* [Notas filtros](materials/Notas_filtros.pdf). [Notas Ciclo Económico Real](materials/Notas_rbc.pdf) 
-* [Tarea 2](materials/Tarea2_II25.pdf) (Entrega: 24 de octubre) 
+* [Notas Ciclo Económico Real](materials/Notas_rbc.pdf) 
 
 ### Implicaciones de política y críticas al modelo neoclásico
 
