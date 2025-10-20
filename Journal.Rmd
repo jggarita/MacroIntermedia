@@ -134,7 +134,7 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_II
 
 * Capítulo 20.1 [GLS]
 * [Notas filtros](materials/filtros_II25.pdf). 
-* [Tarea 2](materials/Tarea2_II25.pdf) (Entrega: 24 de octubre) 
+* [Tarea 2](materials/Tarea2_II25.pdf) (Entrega: 27 de octubre) 
 
 
 ### Modelo de Ciclo Económico Real de dos periodos (RBC)
