@@ -175,6 +175,7 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_II
 ### Modelo Neokeynesiano 
 
 * Capítulos 24 y 25 [GLS], Capítulo 14 [K]
+* [Neutralidad monetaria y rigideces nominales](materials/MoneyNeutrality.pdf)
 * [Notas sobre implementación política monetaria](materials/implementacion_mp.pdf).
 
 ### Efecto de choques bajo el modelo Neokeynesiano
@@ -205,7 +206,6 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_II
 ### Política monetaria y fiscal bajo el modelo Neokeynesiano
 
 * Capítulo 28 [GLS], Capítulo 15 [K]
-* [Neutralidad monetaria y rigideces nominales](materials/money_neutrality.pdf)
 * [Práctica 13](materials/PS132.pdf)
 * [Notas reglas de política](materials/taylor_notes.pdf)
 * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf) 
