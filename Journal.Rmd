@@ -171,6 +171,11 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_II
 * [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
 * [II Parcial II-2024](materials/MT2-2-24.pdf). [Soluciones](materials/MT2-2-24-SOL.pdf)
 * [II Parcial I-2025](materials/MT2_I25.pdf). [Soluciones](materials/mt2_I25_sol.pdf)
+* [II Parcial II-2025](materials/MT2_II25.pdf). [Soluciones](materials/MT2_II25_sol.pdf)
+
+
+MT2_II25_sol
+
 
 ### Modelo Neokeynesiano 
 
@@ -210,6 +215,7 @@ La versión más reciente del programa del curso [acá.](materials/2025EC3201_II
 * [Notas reglas de política](materials/taylor_notes.pdf)
 * Romer, C. D., & Romer, D. H. (2023). Does Monetary Policy Matter? The Narrative Approach after 35 Years (No. w31170). National Bureau of Economic Research. [Descargar](materials/Readings/romerromer2023.pdf) 
 * Nakamura, E., & Steinsson, J. (2013). Price rigidity: Microeconomic Evidence and Macroeconomic Implications. Annu. Rev. Econ., 5(1), 133-163. [Descargar](materials/Readings/price_rigidity.pdf) 
+* [Tarea 3](materials/Tarea3_Taylor.pdf). [Datos Stata](materials/taylor_data.dta) [Excel](materials/taylor_data.xlsx) (Entrega: 24 de noviembre)  
 
  
 

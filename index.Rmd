@@ -58,7 +58,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 
 ### Avisos importantes
 
-* La tarea 2 ha sido posteada. Fecha de entrega: 27 de octubre. [Subir tarea acá](https://www.dropbox.com/request/9ibGmKQbM5cILeyIXI82)
+* La [tarea 3](materials/Tarea3_Taylor.pdf) (Entrega: 24 de noviembre) ha sido posteada. [Datos Stata](materials/taylor_data.dta)  [Excel](materials/taylor_data.xlsx) (Entrega: 24 de noviembre)  
 
 
 </div>  
