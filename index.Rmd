@@ -39,26 +39,26 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 * Prof. Jonathan Garita, Ph.D.
 * Correo del curso: MacroIntermediaUCR@gmail.com
 * Asistente: Daniel González López
-* **Hora de clase:** Lunes y jueves 18-19:50. *(209 AU)*
-* **Laboratorio:** Miércoles 9-10:50 *(212 AU)*
+* **Hora de clase:** Lunes y jueves 18-19:50. *(208 AU)*
+* **Laboratorio:** Miércoles 8-9:50 *(310 AU)*
 * **Horas de consulta**: Martes 5-7pm (Cita previa)
 
 ### Evaluación:
 
-1. Tareas y asignaciones: 25%
+1. Tareas y asignaciones: 20%
 
-2. Primer parcial: 25% (27 de setiembre)
+2. Primer parcial: 25% (18 de abril)
 
-3. Segundo parcial 25% (1 de noviembre)
+3. Segundo parcial 25% (30 de mayo)
 
-3. Tercer parcial 25% (4 de diciembre)
+3. Tercer parcial 30% (9 de julio)
 
 
 
 
 ### Avisos importantes
 
-* Consultar notas finales [acá](materials/notas_II25.html)
+* El programa del curso ha sido posteado.
 
 
 </div>  
