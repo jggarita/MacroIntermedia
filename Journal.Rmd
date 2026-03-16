@@ -65,7 +65,7 @@ La versión más reciente del programa del curso [acá.](materials/2026EC3201_I.
 * Capítulo 10 [GLS], Capítulo 6 [K]
 * [Práctica 2](materials/PS2.pdf)
 * [Notas adicionales](materials/Consumo_slides25.pdf)
-* [Tarea 1](materials/Tarea1_II25.pdf) (Entrega: 28 de agosto) [Datos Stata](materials/data_consumo_psid.dta) [Datos Excel](materials/data_consumo_psid.csv). 
+* [Tarea 1](materials/Tarea1_II25.pdf) (Entrega: 10 de abril) [Datos Stata](materials/data_consumo_psid.dta) [Datos Excel](materials/data_consumo_psid.csv). 
 
 
 
