@@ -99,7 +99,7 @@ La versión más reciente del programa del curso [acá.](materials/2026EC3201_I.
 
 ## Primer Parcial
 
-* Fecha: 27 de setiembre a las 8 am. 
+* Fecha: 18 de abril a las 8 am. 
 * [Práctica](materials/MT1_Practica_II25.pdf) 
 * [I Parcial I-2023](materials/MT1.pdf). [Soluciones](materials/MT1_sol.pdf) 
 * [I Parcial II-2023](materials/MT12.pdf). [Soluciones](materials/MT12_sol.pdf)
