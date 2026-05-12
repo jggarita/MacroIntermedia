@@ -134,7 +134,7 @@ La versión más reciente del programa del curso [acá.](materials/2026EC3201_I.
 
 * Capítulo 20.1 [GLS]
 * [Notas filtros](materials/filtros_II25.pdf). 
-* [Tarea 2](materials/Tarea2_II25.pdf) (Entrega: 27 de octubre) 
+* [Tarea 2](materials/Tarea2_II25.pdf) (Entrega: 12 de junio) 
 
 
 ### Modelo de Ciclo Económico Real de dos periodos (RBC)
@@ -165,7 +165,7 @@ La versión más reciente del programa del curso [acá.](materials/2026EC3201_I.
 
 ## Segundo Parcial
 
-* Fecha: (12 de junio)
+* Fecha: (6 de junio)
 * [Práctica](materials/MT2_practica.pdf) 
 * [II Parcial I-2023](materials/SegundoParcialMacro2.pdf) [Soluciones](materials/MT2_sol.pdf) 
 * [II Parcial II-2023](materials/MT2_22023.pdf) [Soluciones](materials/mt2223_sol.pdf) 
