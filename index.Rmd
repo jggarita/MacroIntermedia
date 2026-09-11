@@ -61,7 +61,7 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 ### Avisos importantes
 
 * El [programa del curso](materials/2026EC3201_II.pdf) ha sido posteado. 
-* [Tarea 1](materials/Tarea1_II26.pdf) (Entrega: 27 setiembre) [Datos Stata](materials/data_consumo_psid.dta) [Datos Excel](materials/data_consumo_psid.csv). 
+* [Tarea 1](materials/Tarea_1_II26.pdf) (Entrega: 27 setiembre) [Datos Stata](materials/data_consumo_psid.dta) [Datos Excel](materials/data_consumo_psid.csv). 
 
 </div>  
 <div class="col-sm-6">
